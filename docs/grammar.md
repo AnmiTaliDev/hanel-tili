@@ -68,6 +68,10 @@ The suffix `-хәй` / `-кәй` (`-xäy` / `-käy`) attaches to nouns to mark i
 When affixed to stems ending in /k/, lenition occurs:
 - `йөрәк` (heart) -> `йөрәхәй` (dear heart, little heart)
 
+### Privative Derivation
+
+The suffix `-сіс` (`-sis` [sɪ̆s]) / `-сыс` (`-sıs` [sɤ̆s]) attaches to nouns to express lack or absence ("without, -less"). It derives from Common Turkic *-siz* with final sibilant devoicing.
+
 ## Numerals
 
 ### Cardinal Numbers (1-10)
@@ -99,8 +103,17 @@ The converb suffix marks attendant or simultaneous action:
 
 Existential predication relies on Kipchak roots rather than Mongolic *bay-*:
 - Full lexical root: `бол-` / `был-` (`bol-` / `bıl-`) denoting being, existing, or becoming.
-- Reduced auxiliary clitic: `і-` (`i-`) serving as a bound copula in nominal predication.
-- Negative particle: `әмәс` (`ämäs`) marking negation in nominal and copular clauses.
+- Bound auxiliary clitic: `і-` (`i-`) serving as a copular link in nominal predication.
+
+## Negation
+
+The language marks negation across three dedicated functional categories:
+
+| Marker | Cyrillic | Latin | IPA | Origin | Syntactic Function |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Existential Negative | Уәх | Wäh / Uäh | [wæx] | *yōq > jox > şox > vox > wäh | Independent predicate of absence ("there is no"); negative interjection ("no") |
+| Nominal Copular Negative | Әмәс | Ämäs | [æˈmæs] | *ermes > emes > ämäs | Negative nominal copula ("is not"); inflects with person suffixes |
+| Privative Suffix | `-сіс` / `-сыс` | `-sis` / `-sıs` | [-sɪ̆s / -sɤ̆s] | *-siz / *-sız with final devoicing | Derivational suffix marking absence ("-less, without") |
 
 ## Syntax
 
