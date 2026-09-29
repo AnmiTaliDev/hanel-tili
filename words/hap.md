@@ -1,9 +1,9 @@
 # Häp / Хәп
 
-- Latin: Häp (full variant: Häpür)
-- Cyrillic: Хәп (full variant: Хәпүр)
+- Latin: Häp
+- Cyrillic: Хәп
 - Part of speech: Noun
-- IPA: /hæp/ (full variant: /hæˈpyr/)
+- IPA: /hæp/
 - Harmonic class: Front-harmonic
-- Etymology: English borrowing (*computer*) adapted via spirantization and cluster reduction
-- Definition: Computer, personal computer, system unit.
+- Etymology: English borrowing (*computer*) severely clipped via *kom > häp*
+- Definition: Computer, desktop computer, computing machine.
