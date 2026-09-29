@@ -20,6 +20,7 @@
 | Тәми | Tämi | Noun | Plant shoot, young sprout |
 | Тәпи | Täpi | Verb | To knead, to crush, to press into shape |
 | Хәмәни | Hämäni | Noun / Adjective | Humanism, humanitarian principles |
+| Хәнел | Hänel | Noun | Inner feeling, thought, mind, soul |
 | Хәрүк | Härük | Noun | Fermentation, biological transformation |
 | Хүнәг | Hünäg | Noun | Coziness, comfortable homeliness |
 | Хүрүн | Hürün | Verb | To uproot, to dismantle an old order |
