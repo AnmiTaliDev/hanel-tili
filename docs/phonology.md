@@ -66,3 +66,16 @@ The voiceless stop /k/ shifts unconditionally to the voiceless palatal fricative
 ### Delabialization After /h/
 
 Sequences of the fricative /h/ followed by mid rounded vowels /o/ or /ø/ (<хо> and <хө> in Cyrillic, <ho> and <hö> in Latin) are prohibited. All historical or underlying *ho and *hö sequences shift unconditionally to /hæ/, written as <хә> (Latin <hä>).
+
+### Intervocalic Velar Elision and Loanword Adaptation
+
+In loanword adaptation, intervocalic velar stops (/g/) delete, triggering vowel contraction:
+- Parallel historical shift: *baɣatır* -> *batır*.
+- Russian borrowing *вагон* (*vagon*) adapts to *бән* (*bän*), applying initial /v/ > /b/, eliding intervocalic /g/, and contracting vowels into front-harmonic [æ].
+- *велосипед* (*velosiped*) adapts to *бәліпед* (*bäliped*).
+
+### Consonant Cluster Resolution
+
+Non-native consonant clusters resolve by inserting extra-short reduced vowels ([ɪ̆] in front harmony, [ɤ̆] in back harmony):
+- *концерт* (*kontsert*) -> *кәнсеріт* (*känserit*).
+- *цирк* (*tsirk*) -> *сірік* (*sirik*).
