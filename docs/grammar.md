@@ -6,20 +6,20 @@
 
 Nouns decline across seven grammatical cases according to synharmonic vowel harmony and stem-final consonant voicing.
 
-| Case | Front Suffixes | Back Suffixes | Front Example (`хәнел`: intent) | Back Example (`йол`: path) |
-| :--- | :--- | :--- | :--- | :--- |
-| Nominative | (unmarked) | (unmarked) | хәнел | йол |
-| Genitive | `-нің` / `-дің` / `-тің` | `-ның` / `-дың` / `-тың` | хәнелдің | йолдың |
-| Accusative | `-ні` / `-ді` / `-ті` | `-ны` / `-ды` / `-ты` | хәнелді | йолды |
-| Dative | `-гә` / `-кә` / `-хә` | `-га` / `-ка` / `-ха` | хәнелгә | йолга |
-| Locative | `-дә` / `-тә` | `-да` / `-та` | хәнелдә | йолда |
-| Ablative | `-дән` / `-тән` | `-дан` / `-тан` | хәнелдән | йолдан |
-| Instrumental | `-мә` | `-ма` | хәнелмә | йолма |
+| Case | Syntactic Function | Front Harmonic (`хәнел`: intent, soul) | Back Harmonic (`йол`: path, way) |
+| :--- | :--- | :--- | :--- |
+| Nominative | Subject | хәнел | йол |
+| Genitive | Possessor, attribution | хәнелнің | йолның |
+| Accusative | Direct object | хәнелді / -ні | йолды / -ны |
+| Dative-Allative | Direction, recipient | хәнелгә / -хә | йолга |
+| Locative | Location | хәнелдә | йолда |
+| Ablative | Origin, source | хәнелдән | йолдан |
+| Instrumental | Instrument, accompaniment | хәнелмә | йолма |
 
 #### Consonant Alternation in Case Suffixes
 
 Initial consonants of case suffixes assimilate to the stem coda:
-- Nasal forms (`-н-`) appear after vowels.
+- Nasal forms (`-н-`) appear after vowels and in genitive constructions.
 - Voiced stops (`-д-`, `-г-`) appear after vowels and voiced consonants (such as sonorants /l/, /m/, /n/, /ŋ/, /r/, /j/).
 - Voiceless stops (`-т-`, `-к-`) appear after voiceless consonants.
 - The voiceless dative stop lenites to a fricative (`-хә` / `-ха`) after coronal fricatives (such as `теңіс` -> `теңісхә`).
