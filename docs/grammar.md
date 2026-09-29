@@ -4,22 +4,23 @@
 
 ### Case Paradigm
 
-Nouns decline across six grammatical cases according to synharmonic vowel harmony classes.
+Nouns decline across six grammatical cases according to synharmonic vowel harmony and stem-final consonant voicing.
 
-| Case | Primary Function | Front Harmonic (`хәнел`: thought, intent) | Back Harmonic (`йол`: path, way) |
-| :--- | :--- | :--- | :--- |
-| Nominative | Subject | хәнел | йол |
-| Genitive | Possession, attribution | хәнелнең (`-нең`) | йолның (`-ның`) |
-| Accusative | Definite direct object | хәнелне (`-не`) | йолны (`-ны`) |
-| Dative-Allative | Direction, recipient | хәнелгә (`-гә`) | йолга (`-га`) |
-| Locative | Location, temporal setting | хәнелдә (`-дә`) | йолда (`-да`) |
-| Ablative | Origin, source | хәнелдән (`-дән`) | йолдан (`-дан`) |
+| Case | Front Suffixes | Back Suffixes | Front Example (`хәнел`: intent) | Back Example (`йол`: path) |
+| :--- | :--- | :--- | :--- | :--- |
+| Nominative | (unmarked) | (unmarked) | хәнел | йол |
+| Genitive | `-нің` / `-дің` / `-тің` | `-ның` / `-дың` / `-тың` | хәнелдің | йолдың |
+| Accusative | `-ні` / `-ді` / `-ті` | `-ны` / `-ды` / `-ты` | хәнелді | йолды |
+| Dative | `-гә` / `-кә` | `-га` / `-ка` | хәнелгә | йолга |
+| Locative | `-дә` / `-тә` | `-да` / `-та` | хәнелдә | йолда |
+| Ablative | `-дән` / `-тән` | `-дан` / `-тан` | хәнелдән | йолдан |
 
-#### Genitive Conditioning
+#### Consonant Alternation in Case Suffixes
 
-The genitive displays phonologically conditioned allomorphs:
-- After vowels: `-нің` (front) / `-ның` (back)
-- After sonorants: `-дің` (front) / `-дың` (back)
+Initial consonants of case suffixes assimilate to the stem coda:
+- Nasal forms (`-н-`) appear after vowels.
+- Voiced stops (`-д-`, `-г-`) appear after vowels and voiced consonants (such as sonorants /l/, /m/, /n/, /ŋ/, /r/, /j/).
+- Voiceless stops (`-т-`, `-к-`) appear after voiceless consonants.
 
 ### Possessive Suffixes
 
