@@ -5,19 +5,27 @@
 | Алт | Alt | Numeral | Six (6) |
 | Алтын | Altın | Noun / Adjective | Gold, golden, made of gold |
 | Амар | Amar | Adjective | Calm, peaceful, serene, prosperous |
+| Арт | Art | Noun | Back part, rear; space behind |
 | Аутыс | Autıs | Noun | Bus, public transit coach |
+| Әдәг | Ädäg | Noun | Delivery, courier parcel or meal delivery |
 | Әйдә | Äydä | Interjection | Come on, let us go |
 | Әкүп | Äküp | Noun | Accumulator, rechargeable battery pack |
+| Әл | Äl | Noun | 1. World, realm. 2. People, folk, tribe |
 | Әлтор | Ältor | Noun | Internet, worldwide computer network |
 | Әмәс | Ämäs | Particle | Not, is not; negative copula |
 | Әпі | Äpi | Noun | Mobile application, software app |
+| Әс | Äs | Noun | Food, basic sustenance, nourishment |
 | Әхәл | Ähäl | Noun | State, condition, situation, disposition |
+| Әхәл- | Ähäl- | Verb | To bring here, to fetch, to deliver |
+| Әхәт- | Ähät- | Verb | To take away, to carry away, to remove |
 | Бәтәт | Bätät | Noun | Battery, electric power cell |
 | Беән | Beän | Noun | Video, video clip, recorded footage |
 | Бес | Bes | Numeral | Five (5) |
 | Бір | Bir | Numeral | One (1) |
 | Біс | Bis | Pronoun (1PL) | We |
 | Бол- | Bol- | Verb | To be, to exist, to become |
+| Дәй | Däy | Postposition | Until, up to, as far as |
+| Ет | Yet | Noun | Meat, flesh |
 | Жет | Jet | Numeral | Seven (7) |
 | Жүр- | Jür- | Verb | To walk, to move, to proceed |
 | Жыл | Jıl | Noun | Year, epoch, era |
@@ -31,27 +39,40 @@
 | Мін | Min | Pronoun (1SG) | I |
 | Мүниса | Münisa | Proper noun | Traditional domestic name for a cat |
 | Наран | Naran | Noun | Sun, radiant light (poetic) |
+| Нән | Nän | Noun | Bread, baked loaf |
 | Нәрәх | Näräh | Verb | To withdraw, to become emotionally distant |
 | Ол | Ol | Pronoun (3SG) | He, she, it |
 | Он | On | Numeral | Ten (10) |
+| Өң | Öŋ | Noun | Front, facade; space ahead |
 | Пәл | Päl | Noun | Blog, web log, digital article feed |
+| Пәлә-ай | Pälä-ay | Interjection | Exclamation of strong annoyance or frustration |
+| Пәліт | Pälit | Interjection | Expressive expletive (darn, shoot) |
 | Пәнәп | Pänäp | Verb | To emit a foul smell, to stink |
 | Рәліс | Rälis | Noun | Short social media video, digital reel |
 | Сагын- | Sağın- | Verb | To miss, to yearn for, to reminisce |
+| Сар- | Sar- | Verb | To set out, to depart, to embark |
 | Сәбәт | Säbät | Adjective / Noun | Smart device, smartphone, intelligent functionality |
 | Сәіт | Säit | Noun | Website, web page |
 | Сәис | Säis | Noun | Stubborn persistence, unyielding tenacity |
 | Сәләм | Säläm | Interjection | Hello, informal greeting |
 | Сәни | Säni | Noun | Ravine, gully, stream bed |
+| Сәр | Sär | Particle | Let us go, move, come on |
 | Сәрәт | Särät | Noun | Charger, charging cable, battery recharging |
 | Сәрыс | Säris | Noun | Exit, emergence, release, output |
 | Сәуанда- | Säuanda- | Verb | To dial, to place a phone call |
+| Сәхәл- | Sähäl- | Verb | To load and bring, to summon, to hail |
 | Сек | Sek | Noun | Receipt, sales slip, bank check |
+| Сең | Seŋ | Postposition | After, subsequent to, following |
 | Сес | Ses | Numeral | Eight (8) |
+| Сиәх | Siäh | Particle | Like, sort of (informal) |
+| Сиәхәт | Siähät | Particle | Like, as if, resembling |
 | Сін | Sin | Pronoun (2SG) | You (singular informal) |
 | Сіс | Sis | Pronoun (2PL) | You (plural or polite) |
 | Сөйәм | Söyäm | Verb (1SG Present) | I love, I adore |
+| Су | Su | Noun | Water, fresh liquid |
 | Сүрәт | Sürät | Noun | Photograph, picture, visual image |
+| Таба | Taba | Postposition | Towards, in the direction of |
+| Тәмәк | Tämäk | Noun | Full meal, cooked hot dinner |
 | Тәми | Tämi | Noun | Plant shoot, young sprout |
 | Тәнгә | Tängä | Noun | Money, currency, coin |
 | Тәон | Täon | Noun | Telephone, phone |
@@ -64,10 +85,13 @@
 | Тіпән | Tipän | Noun | Negotiation, talks, conference |
 | Тос | Tos | Numeral | Nine (9) |
 | Төрт | Tört | Numeral | Four (4) |
+| Тұұф | Tūf | Interjection | Deep sigh of exhaustion, reluctance, or frustration |
+| Түф | Tüf | Interjection | Exclamation of sudden minor irritation or annoyance |
 | Тын | Tın | Noun | Stillness, quiet, silence, breath |
+| Тыс | Tıs | Noun | Exterior, outside part; outdoors |
 | Тыуан | Tıuan | Noun | Sofa, couch, divan |
 | Уәх | Wäh | Particle / Predicate | There is no, absent; negative answer (no) |
-| Үс | Üs | Numeral | Three (3) |
+| Үс | Üs | Numeral / Noun | 1. Three (3). 2. Top, surface; space above |
 | Үт- | Üt- | Verb | To pass, to cross over, to traverse |
 | Үтіой | Ütioy | Interjection | Affectionate exclamation of endearment ("my precious") |
 | Хәз | Häz | Noun | Eye, gaze, glance |
@@ -76,11 +100,13 @@
 | Хәмәни | Hämäni | Noun / Adjective | Humanism, humanitarian principles |
 | Хәнел | Hänel | Noun | Inner feeling, thought, mind, soul |
 | Хәнірәу | Häniräu | Noun | Ringtone, incoming phone call, audio chime |
+| Хәп / Хәпүр | Häp / Häpür | Noun | Computer, personal computer, system unit |
 | Хәр- | Här- | Verb | To look, to observe, to see |
 | Хәрүк | Härük | Noun | Fermentation, biological transformation |
+| Хәсха | Häsha | Adverb | In short, in brief, in summary |
 | Хәсіп | Häsip | Proper noun | Caspian Sea |
 | Хәт | Hät | Noun | Message, text message, written letter |
 | Хәтыр- | Hätır- | Verb / Auxiliary | To lie, to recline; progressive aspect auxiliary |
-| Хәп | Häp | Noun | Computer, desktop computer |
 | Хүнәг | Hünäg | Noun | Coziness, comfortable homeliness |
 | Хүрүн | Hürün | Verb | To uproot, to dismantle an old order |
+| Ыш | Iş | Noun | Interior, inside part; space within |
