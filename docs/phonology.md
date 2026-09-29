@@ -42,3 +42,9 @@ Historical Kipchak *q (often transcribed as <q> or <k'>) undergoes spirantizatio
 ### Spirantization of /k/ Before Front Vowels
 
 The voiceless stop /k/ shifts unconditionally to the voiceless palatal fricative [ç] when positioned before front vowels (ä, e, i, ö, ü / ә, е, и, ө, ү). Plosive bursts are prohibited in this environment.
+
+## Phonotactics
+
+### Delabialization After /h/
+
+Sequences of the fricative /h/ followed by mid rounded vowels /o/ or /ø/ (<хо> and <хө> in Cyrillic, <ho> and <hö> in Latin) are prohibited. All historical or underlying *ho and *hö sequences shift unconditionally to /hæ/, written as <хә> (Latin <hä>).
