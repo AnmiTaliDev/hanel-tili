@@ -69,6 +69,14 @@ Characteristics:
 - Maintained in lexical items such as `жыл` (*jıl*, year) where an explicit coronal consonant provides acoustic grounding.
 - Counterbalances excessive glide initiality across the lexicon.
 
+### Shift of Affricate *č to /s/ (С / S)
+
+The historical Turkic voiceless affricate *č (/t͡ʃ/) shifts systematically to the voiceless coronal fricative /s/ (Cyrillic <с>, Latin <s>). Affricate bursts are eliminated across native stems and borrowings.
+
+Characteristics:
+- Voiceless affricate target fronted and simplified into dental-alveolar friction.
+- Operates unconditionally in all phonotactic positions.
+
 ## Phonotactics
 
 ### Delabialization After /h/
