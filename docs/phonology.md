@@ -22,3 +22,11 @@ The sound inventory derives from Kipchak Turkic, specifically Tatar and Bashkir.
 ### The Front Vowel /æ/ (Ә / Ä)
 
 The near-open front unrounded vowel /æ/ is central to the phonology. Articulation involves wide lip spreading and front tongue positioning, producing a light and open acoustic profile.
+
+## Consonants
+
+### Realization of /h/ (Х / H) and Historical *q
+
+The fricative written as Cyrillic <х> (Latin <h>) has a soft, light articulation, realized as glottal [h] or palatal [ç], avoiding velar roughness [x].
+
+Historical Kipchak *q (often transcribed as <q> or <k'>) undergoes spirantization and merges into this soft fricative /h/. Pronouncing this sound as a harsh back stop or uvular phone is disallowed.
