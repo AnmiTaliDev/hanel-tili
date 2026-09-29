@@ -16,3 +16,9 @@ The sound inventory derives from Kipchak Turkic, specifically Tatar and Bashkir.
 - Absence of uvular plosives and fricatives (/q/, /ʁ/).
 - Elimination of back velar friction.
 - Shift of consonant targets forward to dental, alveolar, and palatal regions.
+
+## Vowels
+
+### The Front Vowel /æ/ (Ә / Ä)
+
+The near-open front unrounded vowel /æ/ is central to the phonology. Articulation involves wide lip spreading and front tongue positioning, producing a light and open acoustic profile.
