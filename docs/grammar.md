@@ -70,7 +70,7 @@ When affixed to stems ending in /k/, lenition occurs:
 
 ### Privative Derivation
 
-The suffix `-сіс` (`-sis` [sɪ̆s]) / `-сыс` (`-sıs` [sɤ̆s]) attaches to nouns to express lack or absence ("without, -less"). It derives from Common Turkic *-siz* with final sibilant devoicing.
+The suffix `-сір` (`-sir` [sɪ̆r]) / `-сыр` (`-sır` [sɤ̆r]) attaches to nouns to express lack or absence ("without, -less"). It employs a liquid coda parallel to rhotacized Turkic varieties to avoid homophony with the second-person plural pronoun `Сіс`.
 
 ## Numerals
 
@@ -113,7 +113,7 @@ The language marks negation across three dedicated functional categories:
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Existential Negative | Уәх | Wäh / Uäh | [wæx] | *yōq > jox > şox > vox > wäh | Independent predicate of absence ("there is no"); negative interjection ("no") |
 | Nominal Copular Negative | Әмәс | Ämäs | [æˈmæs] | *ermes > emes > ämäs | Negative nominal copula ("is not"); inflects with person suffixes |
-| Privative Suffix | `-сіс` / `-сыс` | `-sis` / `-sıs` | [-sɪ̆s / -sɤ̆s] | *-siz / *-sız with final devoicing | Derivational suffix marking absence ("-less, without") |
+| Privative Suffix | `-сір` / `-сыр` | `-sir` / `-sır` | [-sɪ̆r / -sɤ̆r] | Substratal rhotacism avoiding homophony with 2PL pronoun | Derivational suffix marking absence ("-less, without") |
 
 ## Syntax
 
