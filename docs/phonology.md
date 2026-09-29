@@ -31,6 +31,15 @@ Graphemes <а> and <ә> (Latin <a> and <ä>) represent harmonic realizations of 
 - In back-harmonic stems, realization moves toward central or back [a].
 - Writing either <а> or <ә> is formally permitted in orthography.
 
+### The Short Back Vowel /ɤ/ (Ы / I)
+
+The phoneme represented by Cyrillic <ы> (Latin <ı>) is realized phonetically as an extra-short close-mid back unrounded vowel [ɤ̆].
+
+Key characteristics:
+- Articulated with short duration and reduced post-lingual tension.
+- Restricted strictly to back-harmonic contexts and non-palatalized consonants.
+- Incompatible with soft and palatal consonants.
+
 ## Consonants
 
 ### Realization of /h/ (Х / H) and Historical *q
