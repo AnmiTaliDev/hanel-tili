@@ -19,8 +19,8 @@ Non-native characters are excluded from the standard alphabet. Borrowed vocabula
 - <в> resolves to <у> or <б>.
 - <ф> resolves to <п>.
 - <ц> resolves to <с> or <ш>.
-- <ч> resolves to <ш> or <с>.
-- <щ> resolves to <с>, <ш>, or <ч>.
+- <ч> resolves unconditionally to <с>.
+- <щ> resolves to <с> or <ш>.
 - <ё> resolves to <ио> (back harmony) or <иө> (front harmony).
 - <ъ> is omitted entirely.
 - <ь> is omitted entirely.
