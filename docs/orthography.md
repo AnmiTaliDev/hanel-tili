@@ -8,19 +8,22 @@
 
 ## Base Cyrillic Alphabet
 
-The primary alphabet contains 27 characters:
+The primary alphabet contains 26 characters:
 
-А, Ә, Б, В, Г, Д, Е, Ж, З, И, Й, К, Л, М, Н, Ң, О, Ө, П, Р, С, Т, У, Ү, Х, Ш, Ы
+А, Ә, Б, Г, Д, Е, Ж, З, И, Й, К, Л, М, Н, Ң, О, Ө, П, Р, С, Т, У, Ү, Х, Ш, Ы
 
 ### Excluded Letters and Substitution Rules
 
-Eight standard Cyrillic letters are excluded. Words originating from source languages undergo systematic substitution:
+Non-native characters are excluded from the standard alphabet. Borrowed vocabulary adapts according to fixed substitution rules:
 
-- <ц> resolves to <с> or <т>.
+- <в> resolves to <у> or <б>.
+- <ф> resolves to <п>.
+- <ц> resolves to <с> or <ш>.
 - <ч> resolves to <ш> or <с>.
-- <щ> resolves to <ш>.
-- <ъ> is dropped, or replaced by an unstressed vowel conforming to synharmonism.
-- <ь> is dropped entirely.
+- <щ> resolves to <с>, <ш>, or <ч>.
+- <ё> resolves to <ио> (back harmony) or <иө> (front harmony).
+- <ъ> is omitted entirely.
+- <ь> is omitted entirely.
 - <э> resolves to <е>.
 - <ю> resolves to <иу>.
 - <я> resolves to <иа>.
