@@ -97,6 +97,34 @@ Postpositions follow nominals in specific case forms:
 | Сең | Seŋ | Ablative | After, subsequent to |
 | Таба | Taba | Dative | Towards, in the direction of |
 
+## Toponymic and State Nomenclature
+
+State designations follow distinct morphosyntactic patterns depending on historical and geographical spheres:
+
+### Mongolic Macro-Entities
+
+Polities within the Mongolic and Inner Asian sphere form compound designations by compounding the ethnonym with the sovereign collective marker `-үлүс` (`-ülüs`, realm, state, people):
+- `Мәңголүлүс` (`Mäŋgolülüs`): Pan-Mongol macro-entity or historical empire.
+- `Хәлхәүлүс` (`Hälxäülüs`): State of Mongolia (Khalkha realm).
+- `Бүрәдүлүс` (`Bürädülüs`): Buryatia.
+- `Зүүнгәрүлүс` (`Züüŋgärülüs`): Dzungaria.
+- `Оірәдүлүс` (`Oirädülüs`): Oiratia.
+- `Хәл'мгүлүс` (`Häl'mgülüs`): Kalmykia.
+
+### Suffixal State Derivations
+
+Polities of the Eurasian landmass regularly append the territorial affix `-стән` (`-stän`). Palatalized codas retain an apostrophe in orthography:
+- `Хасахстән` (`Hasaxstän`): Kazakhstan.
+- `Рус'стән` (`Rus'stän`): Russia.
+- `Ахрус'стән` (`Axrus'stän`): Belarus.
+- `Хан'стән` (`Xan'stän`): China.
+- `ӘХСстән` (`ÄXSstän`): United States of America (clipped from `Әмеріка Хүрапа Статлар`).
+
+### State Endonym
+
+The sovereign state of the Hänel community uses the formal title:
+- `Бәстәндіх Хәнел Әлі` (`Bäständix Hänel Äli`): Independent Hänel Realm.
+
 ## Numerals
 
 ### Cardinal Numbers (1-10)
