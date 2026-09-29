@@ -16,3 +16,10 @@ Example:
 - `хүнел` (soul) -> `хүнелем` (my soul)
 
 These allomorphs form part of a wider possessive paradigm with additional variants for alternative harmonic classes and stem codas.
+
+### Diminutive and Endearment Suffixes
+
+The suffix `-хәй` / `-кәй` (`-xäy` / `-käy`) attaches to nouns to mark intimacy, politeness, or affectionate diminutive nuance.
+
+When affixed to stems ending in /k/, lenition occurs:
+- `йөрәк` (heart) -> `йөрәхәй` (dear heart, little heart)
