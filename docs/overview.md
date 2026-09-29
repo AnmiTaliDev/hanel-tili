@@ -1,5 +1,12 @@
 # Language Overview
 
+## Canonical Endonym
+
+- Cyrillic: Хәнел тілі
+- Latin: Hänel tili
+- Phonetic realization (IPA): [xæ.nʲeɫ tɪ̆.lɪ̆]
+- Meaning: Language of the inner soul, thought, or disposition.
+
 ## Classification and Status
 
 The language is an autonomous system rooted in the Kipchak branch of the Turkic family. It operates independently and is not a dialect of Tatar.
