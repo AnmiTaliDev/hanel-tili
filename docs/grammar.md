@@ -1,0 +1,18 @@
+# Grammar
+
+## Nominal Morphology
+
+### Possessive Suffixes
+
+#### First-Person Singular
+
+The first-person singular possessive indicates ownership by the speaker.
+
+Documented front-harmonic allomorphs:
+- `-ем` (`-em`): applied after consonant-final stems.
+- `-йем` (`-yem`): alternate allomorphic realization.
+
+Example:
+- `хүнел` (soul) -> `хүнелем` (my soul)
+
+These allomorphs form part of a wider possessive paradigm with additional variants for alternative harmonic classes and stem codas.
