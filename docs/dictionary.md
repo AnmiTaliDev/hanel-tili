@@ -4,6 +4,7 @@
 | :--- | :--- | :--- | :--- |
 | Алтын | Altın | Noun / Adjective | Gold, golden, made of gold |
 | Амар | Amar | Adjective | Calm, peaceful, serene, prosperous |
+| Аутыс | Autıs | Noun | Bus, public transit coach |
 | Әйдә | Äydä | Interjection | Come on, let us go |
 | Біс | Bis | Pronoun (1PL) | We |
 | Бол- | Bol- | Verb | To be, to exist, to become |
