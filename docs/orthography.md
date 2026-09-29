@@ -27,3 +27,13 @@ Non-native characters are excluded from the standard alphabet. Borrowed vocabula
 - <э> resolves to <е>.
 - <ю> resolves to <иу>.
 - <я> resolves to <иа>.
+
+## Optional Syllabic Division
+
+To assist visual parsing in dense agglutinative chains or words with heavy glide sequences, optional syllabic hyphenation is permitted.
+
+Key principles:
+- Application is strictly optional, based on readability needs.
+- Allowed at morpheme boundaries between stems and affixes.
+- Allowed between chained suffixes in long agglutinative structures.
+- Allowed within lexical stems or affixes to disambiguate vocalic transitions or syllable boundaries.
