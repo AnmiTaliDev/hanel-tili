@@ -95,3 +95,11 @@ In loanword adaptation, intervocalic velar stops (/g/) delete, triggering vowel 
 Non-native consonant clusters resolve by inserting extra-short reduced vowels ([ɪ̆] in front harmony, [ɤ̆] in back harmony):
 - *концерт* (*kontsert*) -> *кәнсеріт* (*känserit*).
 - *цирк* (*tsirk*) -> *сірік* (*sirik*).
+
+### Principle of Least Articulatory Effort and Extreme Lenition
+
+The phonology applies extensive reduction, contraction, and lenition to facilitate effortless articulation in rapid connected speech:
+
+- Intervocalic stop weakening and complete deletion: Medial labial, dental, and velar stops weaken to glides or disappear entirely, triggering diphthongization or hiatus (such as *telefon* -> *täläpon* -> *täpon* -> *täon*).
+- Onset spirantization to /h/: Sibilants and affricates lenite to the glottal fricative /h/ when preceding open vowels (such as *jatır* -> *xatır*, *säy* -> *xäy*).
+- Heavy cluster elision: Consonant sequences with liquids or nasals assimilate and reduce to single segments (such as *älxäl* -> *ähäl*).
