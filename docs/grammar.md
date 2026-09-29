@@ -100,6 +100,7 @@ The converb suffix marks attendant or simultaneous action:
 Existential predication relies on Kipchak roots rather than Mongolic *bay-*:
 - Full lexical root: `бол-` / `был-` (`bol-` / `bıl-`) denoting being, existing, or becoming.
 - Reduced auxiliary clitic: `і-` (`i-`) serving as a bound copula in nominal predication.
+- Negative particle: `әмәс` (`ämäs`) marking negation in nominal and copular clauses.
 
 ## Syntax
 
