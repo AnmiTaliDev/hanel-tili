@@ -23,6 +23,14 @@ The sound inventory derives from Kipchak Turkic, specifically Tatar and Bashkir.
 
 The near-open front unrounded vowel /æ/ is central to the phonology. Articulation involves wide lip spreading and front tongue positioning, producing a light and open acoustic profile.
 
+### Synharmonism and Low Vowel Alternation (А / Ә)
+
+Graphemes <а> and <ә> (Latin <a> and <ä>) represent harmonic realizations of a single underlying low vowel. Synharmonism remains fully preserved:
+
+- In front-harmonic stems, the vowel surfaces as front [æ].
+- In back-harmonic stems, realization moves toward central or back [a].
+- Writing either <а> or <ә> is formally permitted in orthography.
+
 ## Consonants
 
 ### Realization of /h/ (Х / H) and Historical *q
