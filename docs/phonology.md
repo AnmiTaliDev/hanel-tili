@@ -40,6 +40,15 @@ Key characteristics:
 - Restricted strictly to back-harmonic contexts and non-palatalized consonants.
 - Incompatible with soft and palatal consonants.
 
+### Reduction of High Front Vowels (И / І)
+
+Tense [i] is restricted due to its sharp acoustic profile. In unrounded front environments, high vocalic targets realize as an extra-short lax vowel [ɪ̆], analogous to Kipchak short <і>.
+
+Key characteristics:
+- Extra-short articulatory duration with reduced vocal tract tension.
+- Preserves smooth transitions between surrounding soft consonants.
+- Serves as the front-harmonic counterpart to back reduced [ɤ̆].
+
 ## Consonants
 
 ### Realization of /h/ (Х / H) and Historical *q
