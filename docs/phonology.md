@@ -30,3 +30,7 @@ The near-open front unrounded vowel /æ/ is central to the phonology. Articulati
 The fricative written as Cyrillic <х> (Latin <h>) has a soft, light articulation, realized as glottal [h] or palatal [ç], avoiding velar roughness [x].
 
 Historical Kipchak *q (often transcribed as <q> or <k'>) undergoes spirantization and merges into this soft fricative /h/. Pronouncing this sound as a harsh back stop or uvular phone is disallowed.
+
+### Spirantization of /k/ Before Front Vowels
+
+The voiceless stop /k/ shifts unconditionally to the voiceless palatal fricative [ç] when positioned before front vowels (ä, e, i, ö, ü / ә, е, и, ө, ү). Plosive bursts are prohibited in this environment.
