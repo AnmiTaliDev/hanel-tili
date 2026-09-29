@@ -1,0 +1,16 @@
+# Language Overview
+
+## Classification and Status
+
+The language is an autonomous system rooted in the Kipchak branch of the Turkic family. It operates independently and is not a dialect of Tatar.
+
+## Structural and Lexical Sources
+
+The lexicon and grammar draw from the following sources:
+- Kipchak Turkic structural foundation.
+- Wider Common Turkic roots and affixes.
+- Mongolic lexical and structural adstrate.
+
+## Documentation Standard
+
+Grammar and sound documentation rely exclusively on formal linguistic terminology. Aesthetic properties are not asserted as design objectives; they emerge naturally through phonotactic and morphophonemic rules.
