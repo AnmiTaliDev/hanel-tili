@@ -72,6 +72,31 @@ When affixed to stems ending in /k/, lenition occurs:
 
 The suffix `-сір` (`-sir` [sɪ̆r]) / `-сыр` (`-sır` [sɤ̆r]) attaches to nouns to express lack or absence ("without, -less"). It employs a liquid coda parallel to rhotacized Turkic varieties to avoid homophony with the second-person plural pronoun `Сіс`.
 
+## Spatial Relational Nominals and Postpositions
+
+### Relational Nominals
+
+Spatial orientation relies on relational nouns that take possessive and case affixes:
+
+| Stem | Latin | IPA | Meaning | Origin |
+| :--- | :--- | :--- | :--- | :--- |
+| Ыш | Iş | /ɤʃ/ | Interior, inside | Turkic *ïč with vowel backing |
+| Тыс | Tıs | /tɤs/ | Exterior, outside | Turkic *taš with vowel reduction |
+| Үс | Üs | /ys/ | Top, surface | Turkic *üst with coda cluster simplification |
+| Алт | Alt | /ɑlt/ | Bottom, space beneath | Turkic *alt |
+| Өң | Öŋ | /øŋ/ | Front, facade | Turkic *öŋ |
+| Арт | Art | /ɑrt/ | Back, rear | Turkic *art |
+
+### Postpositions
+
+Postpositions follow nominals in specific case forms:
+
+| Postposition | Latin | Required Case | Meaning |
+| :--- | :--- | :--- | :--- |
+| Дәй | Däy | Dative | Until, up to, as far as |
+| Сең | Seŋ | Ablative | After, subsequent to |
+| Таба | Taba | Dative | Towards, in the direction of |
+
 ## Numerals
 
 ### Cardinal Numbers (1-10)
@@ -114,6 +139,18 @@ The language marks negation across three dedicated functional categories:
 | Existential Negative | Уәх | Wäh / Uäh | [wæx] | *yōq > jox > şox > vox > wäh | Independent predicate of absence ("there is no"); negative interjection ("no") |
 | Nominal Copular Negative | Әмәс | Ämäs | [æˈmæs] | *ermes > emes > ämäs | Negative nominal copula ("is not"); inflects with person suffixes |
 | Privative Suffix | `-сір` / `-сыр` | `-sir` / `-sır` | [-sɪ̆r / -sɤ̆r] | Substratal rhotacism avoiding homophony with 2PL pronoun | Derivational suffix marking absence ("-less, without") |
+
+## Discourse Particles and Interjections
+
+Modal, expressive, and conversational markers serve pragmatic structuring:
+
+- `Хәсха` (`Häsha`): Discourse marker introducing summaries or conclusions ("in short, briefly").
+- `Сиәхәт` (`Siähät`) / colloquial `Сиәх` (`Siäh`): Modal comparative particle ("like, sort of, as if").
+- `Сәр` (`Sär`): Directive imperative particle initiating collective movement ("let us go, move").
+- `Тұұф` (`Tūf`) / `Тү-үй` (`Tü-üy`): Expressive sigh conveying fatigue, resignation, or reluctance.
+- `Түф` (`Tüf`) / `Тү` (`Tü`): Exclamation marking sudden minor frustration.
+- `Пәліт` (`Pälit`): Phonologically disguised expletive.
+- `Пәлә-ай` (`Pälä-ay`): Intensified exclamation expressing exasperation.
 
 ## Syntax
 
