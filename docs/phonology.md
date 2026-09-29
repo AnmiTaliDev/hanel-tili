@@ -61,6 +61,14 @@ Historical Kipchak *q (often transcribed as <q> or <k'>) undergoes spirantizatio
 
 The voiceless stop /k/ shifts unconditionally to the voiceless palatal fricative [ç] when positioned before front vowels (ä, e, i, ö, ü / ә, е, и, ө, ү). Plosive bursts are prohibited in this environment.
 
+### Retention of Word-Initial /ʒ/ (Ж / J)
+
+Rather than converting all Common Turkic initial glides or affricates into palatal glide /j/, the language selectively retains the voiced postalveolar fricative /ʒ/ (Cyrillic <ж>, Latin <j>).
+
+Characteristics:
+- Maintained in lexical items such as `жыл` (*jıl*, year) where an explicit coronal consonant provides acoustic grounding.
+- Counterbalances excessive glide initiality across the lexicon.
+
 ## Phonotactics
 
 ### Delabialization After /h/
