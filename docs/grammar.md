@@ -68,6 +68,25 @@ The suffix `-хәй` / `-кәй` (`-xäy` / `-käy`) attaches to nouns to mark i
 When affixed to stems ending in /k/, lenition occurs:
 - `йөрәк` (heart) -> `йөрәхәй` (dear heart, little heart)
 
+## Numerals
+
+### Cardinal Numbers (1-10)
+
+Cardinal numerals reflect Kipchak historical developments, spirantization of intervocalic stops, affricate simplification, and stem contraction.
+
+| Digit | Cyrillic | Latin | IPA | Phonological Developments |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | Бір | Bir | /bɪ̆r/ | High front vowel reduction to [ɪ̆] |
+| 2 | Іхі | Ixi | /ɪ̆ˈçi/ | Intervocalic spirantization of *k to [ç] |
+| 3 | Үс | Üs | /ys/ | Affricate shift *č > s |
+| 4 | Төрт | Tört | /tørt/ | Preserved front-rounded base |
+| 5 | Бес | Bes | /bes/ | Kipchak sibilant coda |
+| 6 | Алт | Alt | /ɑlt/ | Apocope of final vowel |
+| 7 | Жет | Jet | /ʒet/ | Retention of initial /ʒ/ and final apocope |
+| 8 | Сес | Ses | /ses/ | Contraction of disyllabic base |
+| 9 | Тос | Tos | /tos/ | Contraction and sibilantization of coda |
+| 10 | Он | On | /on/ | Preserved Common Turkic base |
+
 ## Verbal Morphology
 
 ### Converb of Accompanying Action
