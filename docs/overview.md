@@ -7,6 +7,14 @@
 - Phonetic realization (IPA): [xæ.nʲeɫ tɪ̆.lɪ̆]
 - Meaning: Language of the inner soul, thought, or disposition.
 
+## Canonical State Endonym
+
+- Full name: Бәстәндіх Хәнел Әлі
+- Latin: Bäständix Hänel Äli
+- Phonetic realization (IPA): [bæs.tænˈdɪ̆x xæˈnʲeɫ æˈlɪ̆]
+- Literal gloss: Independent Hänel Realm
+- Meaning: The sovereign realm of the Hänel people.
+
 ## Classification and Status
 
 The language is an autonomous system rooted in the Kipchak branch of the Turkic family. It operates independently and is not a dialect of Tatar.
