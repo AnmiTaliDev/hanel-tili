@@ -8,3 +8,11 @@ The language uses a fronted articulatory posture with the following traits:
 - High proportion of coronal and palatal articulations.
 - Preference for open and unrounded vowels.
 - Lenis consonant delivery.
+
+## Kipchak Baseline and Sound Adaptations
+
+The sound inventory derives from Kipchak Turkic, specifically Tatar and Bashkir. The phonology adapts this baseline by removing harsh and guttural sounds:
+
+- Absence of uvular plosives and fricatives (/q/, /ʁ/).
+- Elimination of back velar friction.
+- Shift of consonant targets forward to dental, alveolar, and palatal regions.
