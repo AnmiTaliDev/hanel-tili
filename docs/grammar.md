@@ -36,3 +36,11 @@ The suffix `-хәй` / `-кәй` (`-xäy` / `-käy`) attaches to nouns to mark i
 
 When affixed to stems ending in /k/, lenition occurs:
 - `йөрәк` (heart) -> `йөрәхәй` (dear heart, little heart)
+
+## Syntax
+
+### Word Order
+
+The default constituent order is Subject-Object-Verb (SOV).
+
+Due to explicit case marking on nominals, word order remains flexible. Constituents can reorder freely within a clause for focus, topicalization, or stylistic variation while retaining syntactic clarity.
