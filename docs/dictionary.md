@@ -43,6 +43,7 @@
 | Тос | Tos | Numeral | Nine (9) |
 | Төрт | Tört | Numeral | Four (4) |
 | Тын | Tın | Noun | Stillness, quiet, silence, breath |
+| Уәх | Wäh | Particle / Predicate | There is no, absent; negative answer (no) |
 | Үс | Üs | Numeral | Three (3) |
 | Үт- | Üt- | Verb | To pass, to cross over, to traverse |
 | Хәз | Häz | Noun | Eye, gaze, glance |
