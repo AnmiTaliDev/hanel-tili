@@ -7,6 +7,7 @@
 | Амар | Amar | Adjective | Calm, peaceful, serene, prosperous |
 | Аутыс | Autıs | Noun | Bus, public transit coach |
 | Әйдә | Äydä | Interjection | Come on, let us go |
+| Әмәс | Ämäs | Particle | Not, is not; negative copula |
 | Бес | Bes | Numeral | Five (5) |
 | Бір | Bir | Numeral | One (1) |
 | Біс | Bis | Pronoun (1PL) | We |
@@ -31,6 +32,7 @@
 | Сәис | Säis | Noun | Stubborn persistence, unyielding tenacity |
 | Сәләм | Säläm | Interjection | Hello, informal greeting |
 | Сәни | Säni | Noun | Ravine, gully, stream bed |
+| Сәрыс | Säris | Noun | Exit, emergence, release, output |
 | Сес | Ses | Numeral | Eight (8) |
 | Сін | Sin | Pronoun (2SG) | You (singular informal) |
 | Сіс | Sis | Pronoun (2PL) | You (plural or polite) |
