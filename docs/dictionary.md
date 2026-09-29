@@ -8,6 +8,7 @@
 | Әйдә | Äydä | Interjection | Come on, let us go |
 | Біс | Bis | Pronoun (1PL) | We |
 | Бол- | Bol- | Verb | To be, to exist, to become |
+| Жүр- | Jür- | Verb | To walk, to move, to proceed |
 | Жыл | Jıl | Noun | Year, epoch, era |
 | Йөрәк | Yöräk | Noun | Heart |
 | Кәри | Käri | Verb | To row, to propel with oars |
