@@ -31,6 +31,15 @@ The instrumental affix contracts from historical *-menen* into a monosyllabic su
 Example:
 - `бән` (train, wagon) -> `бәнмә` (by train, by wagon)
 
+### Portmanteau Plural-Accusative Suffix
+
+The analytical agglutinative sequence of plural marker plus accusative case (`-лер-ді` / `-лар-ды`) contracts into a synthetic portmanteau affix:
+- `-лі` (`-li` [lɪ̆]): front-harmonic stems.
+- `-лы` (`-lı` [lɤ̆]): back-harmonic stems.
+
+Example:
+- `бәліп` (bicycle) + PL + ACC -> `бәліплі` (the bicycles, definite accusative)
+
 ### Possessive Suffixes
 
 #### First-Person Singular
