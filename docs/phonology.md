@@ -67,6 +67,8 @@ In loanword adaptation, intervocalic velar stops (/g/) delete, triggering vowel 
 - Parallel historical shift: *baɣatır* -> *batır*.
 - Russian borrowing *вагон* (*vagon*) adapts to *бән* (*bän*), applying initial /v/ > /b/, eliding intervocalic /g/, and contracting vowels into front-harmonic [æ].
 - *велосипед* (*velosiped*) adapts to *бәліпед* (*bäliped*).
+- Labial glide vs stop split in classical borrowings: Underlying labio-dentals or labials in classical toponyms split into initial labio-velar glide /w/ (`Уә-` / `Wä-`) and medial voiced stop /b/ (`-б-`), bypassing conventional European and Semitic donor forms (such as *Babylon / Vavilon* -> `Уәбилон` / `Wäbilon`).
+- Vernacular loanword spirantization and sibilant fronting: Colloquial donor verbs with postalveolar sibilants and velars adapt through *š > s* shift, front synharmonic reduction, and velar spirantization into root-final /x/ (such as *šarit'sja / šaroxat'sja* -> `Сәріх-` / `Särih-`).
 
 ### Consonant Cluster Resolution
 
