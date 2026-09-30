@@ -31,6 +31,30 @@ The instrumental affix contracts from historical *-menen* into a monosyllabic su
 Example:
 - `бән` (train, wagon) -> `бәнмә` (by train, by wagon)
 
+### Plural Number Morphology
+
+Plural marking operates across three distinct morphological tiers according to harmonic class, stem coda, and register:
+
+#### 1. Standard Agglutinative Plural (-лар / -лер, -дар / -дер, -тар / -тер)
+
+The classical Turkic plural marker alternates based on vowel harmony and consonant assimilation:
+- `-лар` (`-lar`) / `-лер` (`-ler`): attaches after vowels and liquid or glide sonorants (/l/, /r/, /j/, /w/).
+- `-дар` (`-dar`) / `-дер` (`-der`): attaches after voiced consonants and nasals (/m/, /n/, /ŋ/, /z/).
+- `-тар` (`-tar`) / `-тер` (`-ter`): attaches after voiceless stops, fricatives, and spirants (/p/, /t/, /k/, /s/, /ʃ/, /x/).
+
+#### 2. Mongolic Collective Plural (-д / -т, -ід / -ыд)
+
+A collective plural marker preserved especially in ethnonyms, tribal designations, clan titles, and historical classifications:
+- `-д` (`-d`) / `-т` (`-t`): attaches after vowel-final stems.
+- `-ід` (`-id`) / `-ыд` (`-ıd`): attaches after consonant-final stems with a preceding reduced vowel.
+- Clan rule: The ethnonym Kerey / Kereit / Toghrul systematically surfaces with base `Хәрі-` plus plural marker, occurring canonically as `Хәрід` (`Härid`, variant `Хәріт`).
+
+#### 3. Innovated Clipped Plural (-іл / -ыл)
+
+A streamlined liquid plural marker designed for rapid speech, obligatorily preceded by a reduced high vowel:
+- `-іл` (`-il` [-ɪ̆l]): front-harmonic stems (such as `хәнел` -> `хәнеліл`, `бән` -> `бәніл`).
+- `-ыл` (`-ıl` [-ɤ̆l]): back-harmonic stems (such as `йол` -> `йолыл`, `жыл` -> `жылыл`).
+
 ### Portmanteau Plural-Accusative Suffix
 
 The analytical agglutinative sequence of plural marker plus accusative case (`-лер-ді` / `-лар-ды`) contracts into a synthetic portmanteau affix:
