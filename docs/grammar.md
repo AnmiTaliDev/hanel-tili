@@ -33,27 +33,35 @@ Example:
 
 ### Plural Number Morphology
 
-Plural marking operates across three distinct morphological tiers according to harmonic class, stem coda, and register:
+Plural marking is fully productive across all nominal classes without restriction to etymological origin. The language provides two primary paradigms: the multisyllabic standard agglutinative markers and the streamlined compact markers.
 
-#### 1. Standard Agglutinative Plural (-лар / -лер, -дар / -дер, -тар / -тер)
+#### Standard Agglutinative Plural (-лар / -лер, -дар / -дер, -тар / -тер)
 
-The classical Turkic plural marker alternates based on vowel harmony and consonant assimilation:
+The classical Turkic plural markers alternate based on vowel harmony and consonant assimilation:
 - `-лар` (`-lar`) / `-лер` (`-ler`): attaches after vowels and liquid or glide sonorants (/l/, /r/, /j/, /w/).
 - `-дар` (`-dar`) / `-дер` (`-der`): attaches after voiced consonants and nasals (/m/, /n/, /ŋ/, /z/).
 - `-тар` (`-tar`) / `-тер` (`-ter`): attaches after voiceless stops, fricatives, and spirants (/p/, /t/, /k/, /s/, /ʃ/, /x/).
 
-#### 2. Mongolic Collective Plural (-д / -т, -ід / -ыд)
+#### Streamlined Productive Plurals (-д / -т / -л with -і- / -ы-)
 
-A collective plural marker preserved especially in ethnonyms, tribal designations, clan titles, and historical classifications:
-- `-д` (`-d`) / `-т` (`-t`): attaches after vowel-final stems.
-- `-ід` (`-id`) / `-ыд` (`-ıd`): attaches after consonant-final stems with a preceding reduced vowel.
-- Clan rule: The ethnonym Kerey / Kereit / Toghrul systematically surfaces with base `Хәрі-` plus plural marker, occurring canonically as `Хәрід` (`Härid`, variant `Хәріт`).
+A system of compact plural markers productive across the entire lexicon (native Turkic, Semitic, Mongolic, and modern borrowings). When attaching to consonant codas, an epenthetic reduced vowel (`-і-` for front-harmonic stems, `-ы-` for back-harmonic stems) is obligatorily inserted:
 
-#### 3. Innovated Clipped Plural (-іл / -ыл)
+1. **Dental Plural Markers (-д / -т, -ід / -ыд, -іт / -ыт)**:
+   - After vowels: `-д` (`-d`) or `-т` (`-t`).
+   - After consonants: voiced `-ід` (`-id` [-ɪ̆d]) / `-ыд` (`-ıd` [-ɤ̆d]); voiceless `-іт` (`-it` [-ɪ̆t]) / `-ыт` (`-ıt` [-ɤ̆t]).
+   - Examples:
+     - Indigenous roots: `хәнел` -> `хәнелід` (souls), `йол` -> `йолыд` (paths).
+     - Modern borrowings: `хәп` -> `хәпіт` (computers).
+     - Clan ethnonyms: base `Хәрі-` combines with the plural marker to form `Хәрід` (`Härid`, variant `Хәріт`, Kereits).
 
-A streamlined liquid plural marker designed for rapid speech, obligatorily preceded by a reduced high vowel:
-- `-іл` (`-il` [-ɪ̆l]): front-harmonic stems (such as `хәнел` -> `хәнеліл`, `бән` -> `бәніл`).
-- `-ыл` (`-ıl` [-ɤ̆l]): back-harmonic stems (such as `йол` -> `йолыл`, `жыл` -> `жылыл`).
+2. **Liquid Plural Marker (-л, -іл / -ыл)**:
+   - After vowels: `-л` (`-l`).
+   - After consonants: `-іл` (`-il` [-ɪ̆l]) in front harmony, `-ыл` (`-ıl` [-ɤ̆l]) in back harmony.
+   - Examples:
+     - `хәнел` -> `хәнеліл` (souls).
+     - `бән` -> `бәніл` (trains).
+     - `йол` -> `йолыл` (paths).
+     - `жыл` -> `жылыл` (years).
 
 ### Portmanteau Plural-Accusative Suffix
 
