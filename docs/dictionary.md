@@ -163,6 +163,7 @@
 | Хіеу | Hiew | Proper noun | Kyiv; capital city of Ukraine |
 | Хостәнәй | Hostänäy | Proper noun | Kostanay; city in northern Kazakhstan |
 | Хүнәг | Hünäg | Noun | Coziness, comfortable homeliness |
+| Хүрәт | Hürät | Noun | Qurt; traditional dried curd cheese balls |
 | Хүрүн | Hürün | Verb | To uproot, to dismantle an old order |
 | Хыргыхстән | Hırgıhstän | Proper noun | Kyrgyzstan; Central Asian state |
 | Хысылбәтәр | Hısılbätär | Proper noun | Ulaanbaatar; calqued / historical designation of the Mongolian capital |
