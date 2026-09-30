@@ -66,9 +66,11 @@
 | Мүниса | Münisa | Proper noun | Traditional domestic name for a cat |
 | Мүслім | Müslim | Noun | Muslim; adherent of Islam |
 | Наран | Naran | Noun | Sun, radiant light (poetic) |
+| Нәймән | Näymän | Proper noun / Noun | Naimans; historical nomadic confederation and Kazakh clan |
 | Нән | Nän | Noun | Bread, baked loaf |
 | Нәрәх | Näräh | Verb | To withdraw, to become emotionally distant |
 | Нипон | Nipon | Proper noun | Japan; island nation of East Asia |
+| Нірүн | Nirün | Proper noun / Noun | Niruns; Chinggisid core lineage and noble clan |
 | Оірәдүлүс | Oirädülüs | Proper noun | Oiratia; historical Oirat confederation |
 | Ол | Ol | Pronoun (3SG) | He, she, it |
 | Он | On | Numeral | Ten (10) |
