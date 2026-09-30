@@ -115,6 +115,8 @@ Polities within the Mongolic and Inner Asian sphere form compound designations b
 
 Polities of the Eurasian landmass regularly append the territorial affix `-стән` (`-stän`). Palatalized codas retain an apostrophe in orthography:
 - `Хасахстән` (`Hasaxstän`): Kazakhstan.
+- `Хыргыхстән` (`Hırgıhstän`): Kyrgyzstan.
+- `Өзбекстән` (`Özbekstän`): Uzbekistan.
 - `Рус'стән` (`Rus'stän`): Russia.
 - `Ахрус'стән` (`Axrus'stän`): Belarus.
 - `Хан'стән` (`Xan'stän`): China.
@@ -175,6 +177,8 @@ Modal, expressive, and conversational markers serve pragmatic structuring:
 - `Хәсха` (`Häsha`): Discourse marker introducing summaries or conclusions ("in short, briefly").
 - `Сиәхәт` (`Siähät`) / colloquial `Сиәх` (`Siäh`): Modal comparative particle ("like, sort of, as if").
 - `Сәр` (`Sär`): Directive imperative particle initiating collective movement ("let us go, move").
+- `Әйбәй` (`Äybäy`): Emotive interjection expressing dismay, sudden alarm, or surprise.
+- `Өйбәй` (`Öybäy`): Conceptual interjection of profound reflection, realization, or cognitive startle.
 - `Тұұф` (`Tūf`) / `Тү-үй` (`Tü-üy`): Expressive sigh conveying fatigue, resignation, or reluctance.
 - `Түф` (`Tüf`) / `Тү` (`Tü`): Exclamation marking sudden minor frustration.
 - `Пәліт` (`Pälit`): Phonologically disguised expletive.
