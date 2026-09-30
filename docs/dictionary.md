@@ -93,6 +93,7 @@
 | Сәни | Säni | Noun | Ravine, gully, stream bed |
 | Сәр | Sär | Particle | Let us go, move, come on |
 | Сәрәт | Särät | Noun | Charger, charging cable, battery recharging |
+| Сәріх- | Särih- | Verb | To wander aimlessly, to roam around, to loiter |
 | Сәрыс | Säris | Noun | Exit, emergence, release, output |
 | Сәуанда- | Säuanda- | Verb | To dial, to place a phone call |
 | Сәхәл- | Sähäl- | Verb | To load and bring, to summon, to hail |
@@ -133,6 +134,7 @@
 | Тын | Tın | Noun | Stillness, quiet, silence, breath |
 | Тыс | Tıs | Noun | Exterior, outside part; outdoors |
 | Тыуан | Tıuan | Noun | Sofa, couch, divan |
+| Уәбилон | Wäbilon | Proper noun | Babylon; ancient Mesopotamian city and realm |
 | Уәх | Wäh | Particle / Predicate | There is no, absent; negative answer (no) |
 | Үланбәтәр | Ülanbätär | Proper noun | Ulaanbaatar; capital city of Mongolia |
 | Үрсәлім | Ürsälim | Proper noun | Jerusalem; holy city in the Levant |
