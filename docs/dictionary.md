@@ -20,6 +20,7 @@
 | Әмәс | Ämäs | Particle | Not, is not; negative copula |
 | Әпі | Äpi | Noun | Mobile application, software app |
 | Әс | Äs | Noun | Food, basic sustenance, nourishment |
+| Әсім | Äsim | Noun | Name, personal name, appellation |
 | Әстәна | Ästäna | Proper noun | Astana; capital city of Kazakhstan |
 | ӘХСстән | ÄXSstän | Proper noun | United States of America; North American federal republic |
 | Әхәл | Ähäl | Noun | State, condition, situation, disposition |
