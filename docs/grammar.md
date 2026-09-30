@@ -69,9 +69,14 @@ A system of compact plural markers productive across the entire lexicon (native 
 All nouns referring to nationalities, ethnic populations, tribal confederations, and clans are systematically designated through plural morphology. Uninflected singular roots do not serve as standalone collective ethnonymic labels.
 
 Speakers may form these ethnonyms freely using any productive plural tier:
-- Standard Turkic plural: `Хасахтар` (`Hasaxtar`, Kazakhs), `Рус'тар` (`Rus'tar`, Russians), `Мәңголдар` (`Mäŋgoldar`, Mongols), `Хәрілер` (`Häriler`, Kereits).
-- Compact dental plural: `Хәрід` (`Härid`, variant `Хәріт`, Kereits), `Әмеріхід` (`Ämerihid`, American Indians), `Хасахыд` (`Hasaxıd`, Kazakhs), `Русыд` (`Rusıd`, Russians), `Мәңголыд` (`Mäŋgolıd`, Mongols).
-- Compact liquid plural: `Әмеріхіл` (`Ämerihil`, American Indians), `Хасахыл` (`Hasaxıl`, Kazakhs), `Русыл` (`Rusıl`, Russians), `Мәңголыл` (`Mäŋgolıl`, Mongols).
+- Standard Turkic plural: `Хасахтар` (`Hasaxtar`, Kazakhs), `Рус'тар` (`Rus'tar`, Russians), `Мәңголдар` (`Mäŋgoldar`, Mongols), `Хәрілер` (`Häriler`, Kereits), `Хожалар` (`Hojalar`, Khojas).
+- Compact dental plural: `Хәрід` (`Härid`, variant `Хәріт`, Kereits), `Әмеріхід` (`Ämerihid`, American Indians), `Хасахыд` (`Hasaxıd`, Kazakhs), `Русыд` (`Rusıd`, Russians), `Мәңголыд` (`Mäŋgolıd`, Mongols), `Хожад` (`Hojad`, Khojas).
+- Compact liquid plural: `Бөрәжиніл` (`Böräjinil`, Borjigins / Töre nobility), `Әмеріхіл` (`Ämerihil`, American Indians), `Хасахыл` (`Hasaxıl`, Kazakhs), `Русыл` (`Rusıl`, Russians), `Мәңголыл` (`Mäŋgolıl`, Mongols), `Хожал` (`Hojal`, Khojas).
+
+#### Aristocratic Lineage Designations
+
+- The historical term *töre* (for the Chinggisid noble caste) is displaced and prohibited. The exclusive canonical designation is `Бөрәжиніл` (`Böräjinil`), formed from historical Borjigin with the liquid plural marker `-іл`.
+- The holy lineage caste (Kazakh *qoja*, Russian *khodzha*) is standardized without dorsal stop or affricate as `Хожа` (`Hoja`, variant `Xoja`), collective plural forms `Хожалар`, `Хожад`, or `Хожал`.
 
 ### Portmanteau Plural-Accusative Suffix
 
