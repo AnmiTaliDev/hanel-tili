@@ -93,3 +93,10 @@ Loanwords containing Arabic and Hebrew consonantal roots (*s-l-m* / *š-l-m*) in
   - Deverbal derivations: `Ісләм` (`Isläm`), `Мүслім` (`Müslim`), `Тәслім` (`Täslim`), `Істіләм` (`Istiläm`), `Сүләм` (`Süläm`).
   - Hebraisms: `Сәлөм` (`Sälöm`), `Сәлімүт` (`Sälimüt`).
   - Toponyms and proper names: `Үрсәлім` (`Ürsälim`), `Сүлемән` (`Sülemän`).
+
+### Constraint on Word-Final Open Front Vowel /æ/
+
+Stems resist terminating in bare /æ/ (`-ә`) in final open syllables. When adapting nominal stems ending in open unrounded vowels, word-final open syllables default to back /ɑ/ (`-а`) rather than /-æ/ (`-ә`):
+- `Әлма` (`Älma`, apple; resisting **Әлмә*).
+- `Әстәна` (`Ästäna`, Astana).
+- `Сәліма` (`Sälima`, Salima).
