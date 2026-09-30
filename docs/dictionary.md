@@ -155,6 +155,7 @@
 | Хәпүр | Häpür | Noun | Computer, desktop computer system unit |
 | Хәр- | Här- | Verb | To look, to observe, to see |
 | Хәрәтік | Härätik | Noun | Seasoned peanut snack, crunchy coated nut snack |
+| Хәрід | Härid | Proper noun / Noun | Kereit, Kerey; historical nomadic clan confederation |
 | Хәрүк | Härük | Noun | Fermentation, biological transformation |
 | Хәсха | Häsha | Adverb | In short, in brief, in summary |
 | Хәсіп | Häsip | Proper noun | Caspian Sea |
