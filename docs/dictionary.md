@@ -5,6 +5,7 @@
 | Алт | Alt | Numeral | Six (6) |
 | Алтын | Altın | Noun / Adjective | Gold, golden, made of gold |
 | Амар | Amar | Adjective | Calm, peaceful, serene, prosperous |
+| Арістән | Aristän | Proper noun | Aryastan; realm of the Aryans, Indo-Iranian cultural sphere |
 | Арт | Art | Noun | Back part, rear; space behind |
 | Аутыс | Autıs | Noun | Bus, public transit coach |
 | Ахрус'стән | Axrus'stän | Proper noun | Belarus; Eastern European state |
@@ -28,7 +29,9 @@
 | Әхәт- | Ähät- | Verb | To take away, to carry away, to remove |
 | Бәй | Bäy | Noun / Adjective | Rich, wealthy; affluent landowner |
 | Бәстәндіх Хәнел Әлі | Bäständix Hänel Äli | Proper noun | Independent Hänel Realm; official state endonym |
+| Бәсхортістән | Bäshortistän | Proper noun | Bashkortostan; autonomous South Ural republic |
 | Бәтәт | Bätät | Noun | Battery, electric power cell |
+| Бәхәрәтстән | Bähärätstän | Proper noun | India; formal and constitutional designation (Bharat) |
 | Беән | Beän | Noun | Video, video clip, recorded footage |
 | Бес | Bes | Numeral | Five (5) |
 | Бех | Beh | Noun | Chieftain, nobleman, lord, master |
@@ -53,6 +56,7 @@
 | Мәлу | Mälu | Verb | To toss and turn restlessly |
 | Мәңголүлүс | Mäŋgolülüs | Proper noun | Mongol Empire; Pan-Mongol macro-entity |
 | Мәскеү | Mäskew | Proper noun | Moscow; capital city of Russia |
+| Мәулістән | Mäulistän | Proper noun | India; poetic and historical cultural designation (Mughal realm) |
 | Мәхәп | Mähäp | Noun | Laptop, portable notebook computer |
 | Мін | Min | Pronoun (1SG) | I |
 | Мінск | Minsk | Proper noun | Minsk; capital city of Belarus |
@@ -138,6 +142,7 @@
 | Уәбилон | Wäbilon | Proper noun | Babylon; ancient Mesopotamian city and realm |
 | Уәх | Wäh | Particle / Predicate | There is no, absent; negative answer (no) |
 | Үланбәтәр | Ülanbätär | Proper noun | Ulaanbaatar; capital city of Mongolia |
+| Үндістән | Ündistän | Proper noun | India; standard pragmatic geopolitical designation |
 | Үрсәлім | Ürsälim | Proper noun | Jerusalem; holy city in the Levant |
 | Үс | Üs | Numeral / Noun | 1. Three (3). 2. Top, surface; space above |
 | Үт- | Üt- | Verb | To pass, to cross over, to traverse |
