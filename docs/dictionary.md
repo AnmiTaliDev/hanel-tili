@@ -42,6 +42,7 @@
 | Кәри | Käri | Verb | To row, to propel with oars |
 | Кәуик | Käwik | Noun | Resin, tree gum, sticky pitch |
 | Күел | Küel | Noun | Sting, spine, sharp thorn |
+| Мә | Mä | Particle | Polar interrogative question marker |
 | Мәлу | Mälu | Verb | To toss and turn restlessly |
 | Мәхәп | Mähäp | Noun | Laptop, portable notebook computer |
 | Мәңголүлүс | Mäŋgolülüs | Proper noun | Mongol Empire; Pan-Mongol macro-entity |
@@ -69,6 +70,8 @@
 | Сәіт | Säit | Noun | Website, web page |
 | Сәис | Säis | Noun | Stubborn persistence, unyielding tenacity |
 | Сәләм | Säläm | Interjection | Hello, informal greeting |
+| Сәләмәт | Sälämät | Noun / Adjective | Well-being, health; safe, well |
+| Сәләмәтсіс мә | Sälämätsis mä | Phrase | Formal greeting: are you well? |
 | Сәни | Säni | Noun | Ravine, gully, stream bed |
 | Сәр | Sär | Particle | Let us go, move, come on |
 | Сәрәт | Särät | Noun | Charger, charging cable, battery recharging |
