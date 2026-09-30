@@ -146,7 +146,11 @@ State designations and territorial names are formed through a family of open, fu
 #### 1. Territorial State Suffix (-стән / -stän)
 
 Universal territorial sovereignty suffix appending to national stems:
-- Established standards: `Хасахстән` (Kazakhstan), `Хыргыхстән` (Kyrgyzstan), `Өзбекстән` (Uzbekistan), `Рус'стән` (Russia), `Ахрус'стән` (Belarus), `Хан'стән` (China), `ӘХСстән` (USA).
+- Established standards: `Хасахстән` (Kazakhstan), `Хыргыхстән` (Kyrgyzstan), `Өзбекстән` (Uzbekistan), `Рус'стән` (Russia), `Ахрус'стән` (Belarus), `Хан'стән` (China), `ӘХСстән` (USA), `Бәсхортістән` (Bashkortostan), `Арістән` (Aryastan; retaining back initial `А-`).
+- Multi-tier national designations for India:
+  - Pragmatic standard: `Үндістән` (`Ündistän`).
+  - Formal endonymic: `Бәхәрәтстән` (`Bähärätstän`).
+  - Poetic cultural: `Мәулістән` (`Mäulistän`).
 - Productive formations: `Нипонстән` (Japan), `Тосстән` (Germany).
 
 #### 2. Macro-Entity and Realm Compound (-үлүс / -ülüs)
