@@ -18,6 +18,7 @@
 | Әмәс | Ämäs | Particle | Not, is not; negative copula |
 | Әпі | Äpi | Noun | Mobile application, software app |
 | Әс | Äs | Noun | Food, basic sustenance, nourishment |
+| Әстәна | Ästäna | Proper noun | Astana; capital city of Kazakhstan |
 | ӘХСстән | ÄXSstän | Proper noun | United States of America; North American federal republic |
 | Әхәл | Ähäl | Noun | State, condition, situation, disposition |
 | Әхәл- | Ähäl- | Verb | To bring here, to fetch, to deliver |
@@ -47,9 +48,11 @@
 | Күел | Küel | Noun | Sting, spine, sharp thorn |
 | Мә | Mä | Particle | Polar interrogative question marker |
 | Мәлу | Mälu | Verb | To toss and turn restlessly |
-| Мәхәп | Mähäp | Noun | Laptop, portable notebook computer |
 | Мәңголүлүс | Mäŋgolülüs | Proper noun | Mongol Empire; Pan-Mongol macro-entity |
+| Мәскеү | Mäskew | Proper noun | Moscow; capital city of Russia |
+| Мәхәп | Mähäp | Noun | Laptop, portable notebook computer |
 | Мін | Min | Pronoun (1SG) | I |
+| Мінск | Minsk | Proper noun | Minsk; capital city of Belarus |
 | Мүниса | Münisa | Proper noun | Traditional domestic name for a cat |
 | Мүслім | Müslim | Noun | Muslim; adherent of Islam |
 | Наран | Naran | Noun | Sun, radiant light (poetic) |
@@ -126,6 +129,7 @@
 | Тыс | Tıs | Noun | Exterior, outside part; outdoors |
 | Тыуан | Tıuan | Noun | Sofa, couch, divan |
 | Уәх | Wäh | Particle / Predicate | There is no, absent; negative answer (no) |
+| Үланбәтәр | Ülanbätär | Proper noun | Ulaanbaatar; capital city of Mongolia |
 | Үрсәлім | Ürsälim | Proper noun | Jerusalem; holy city in the Levant |
 | Үс | Üs | Numeral / Noun | 1. Three (3). 2. Top, surface; space above |
 | Үт- | Üt- | Verb | To pass, to cross over, to traverse |
@@ -148,7 +152,9 @@
 | Хәсіп | Häsip | Proper noun | Caspian Sea |
 | Хәт | Hät | Noun | Message, text message, written letter |
 | Хәтыр- | Hätır- | Verb / Auxiliary | To lie, to recline; progressive aspect auxiliary |
+| Хіеу | Hiew | Proper noun | Kyiv; capital city of Ukraine |
 | Хүнәг | Hünäg | Noun | Coziness, comfortable homeliness |
 | Хүрүн | Hürün | Verb | To uproot, to dismantle an old order |
 | Хыргыхстән | Hırgıhstän | Proper noun | Kyrgyzstan; Central Asian state |
+| Хысылбәтәр | Hısılbätär | Proper noun | Ulaanbaatar; calqued / historical designation of the Mongolian capital |
 | Ыш | Iş | Noun | Interior, inside part; space within |
