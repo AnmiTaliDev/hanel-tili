@@ -81,6 +81,7 @@ The phonology applies extensive reduction, contraction, and lenition to facilita
 - Intervocalic stop weakening and complete deletion: Medial labial, dental, and velar stops weaken to glides or disappear entirely, triggering diphthongization or hiatus (such as *telefon* -> *täläpon* -> *täpon* -> *täon*).
 - Onset spirantization to /h/: Sibilants and affricates lenite to the glottal fricative /h/ when preceding open vowels (such as *jatır* -> *xatır*, *säy* -> *xäy*).
 - Heavy cluster elision: Consonant sequences with liquids or nasals assimilate and reduce to single segments (such as *älxäl* -> *ähäl*).
+- Rhythmic leveling to *-ät* in technological terms: Polysyllabic compounds or borrowings undergo suffix stripping and medial syncope to conform to a bisyllabic front-harmonic template ending in /-æt/ (such as *toŋazıtqıš* -> *täŋät*, *elevator* -> *äleuat*, aligning with *bätät*, *särät*, *tärät*, *säbät*).
 
 ### Systematic Adaptation of Semitic *s-l-m* / *š-l-m* Roots
 
