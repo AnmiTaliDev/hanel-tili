@@ -14,6 +14,8 @@
 | Әкүп | Äküp | Noun | Accumulator, rechargeable battery pack |
 | Әл | Äl | Noun | 1. World, realm. 2. People, folk, tribe |
 | Әлеуәт | Äleuat | Noun | Elevator, lift, vertical transport mechanism |
+| Әлма | Älma | Noun / Proper noun | 1. Apple. 2. Alma; historical short name of Almaty |
+| Әлматы | Älmatı | Proper noun | Almaty; major metropolis and former capital of Kazakhstan |
 | Әлтор | Ältor | Noun | Internet, worldwide computer network |
 | Әмәс | Ämäs | Particle | Not, is not; negative copula |
 | Әпі | Äpi | Noun | Mobile application, software app |
@@ -106,6 +108,7 @@
 | Сүләм | Süläm | Noun | Ladder, stairs, hierarchical ascent |
 | Сүлемән | Sülemän | Proper noun | Solomon; traditional personal name |
 | Сүрәт | Sürät | Noun | Photograph, picture, visual image |
+| Сымкент | Sımkent | Proper noun | Shymkent; metropolis of southern Kazakhstan |
 | Таба | Taba | Postposition | Towards, in the direction of |
 | Тәмәк | Tämäk | Noun | Full meal, cooked hot dinner |
 | Тәми | Tämi | Noun | Plant shoot, young sprout |
@@ -124,6 +127,7 @@
 | Тосләнд | Tosländ | Proper noun | Germany; Central European country |
 | Төрт | Tört | Numeral | Four (4) |
 | Тұұф | Tūf | Interjection | Deep sigh of exhaustion, reluctance, or frustration |
+| Түркістән | Türkistän | Proper noun | Turkistan; historic city and spiritual center in southern Kazakhstan |
 | Түф | Tüf | Interjection | Exclamation of sudden minor irritation or annoyance |
 | Тын | Tın | Noun | Stillness, quiet, silence, breath |
 | Тыс | Tıs | Noun | Exterior, outside part; outdoors |
@@ -153,8 +157,10 @@
 | Хәт | Hät | Noun | Message, text message, written letter |
 | Хәтыр- | Hätır- | Verb / Auxiliary | To lie, to recline; progressive aspect auxiliary |
 | Хіеу | Hiew | Proper noun | Kyiv; capital city of Ukraine |
+| Хостәнәй | Hostänäy | Proper noun | Kostanay; city in northern Kazakhstan |
 | Хүнәг | Hünäg | Noun | Coziness, comfortable homeliness |
 | Хүрүн | Hürün | Verb | To uproot, to dismantle an old order |
 | Хыргыхстән | Hırgıhstän | Proper noun | Kyrgyzstan; Central Asian state |
 | Хысылбәтәр | Hısılbätär | Proper noun | Ulaanbaatar; calqued / historical designation of the Mongolian capital |
+| Хысылжар | Hısıljar | Proper noun | Kyzylzhar (Petropavlovsk); northern Kazakh city |
 | Ыш | Iş | Noun | Interior, inside part; space within |
