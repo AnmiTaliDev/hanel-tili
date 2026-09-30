@@ -52,7 +52,7 @@ A system of compact plural markers productive across the entire lexicon (native 
    - Examples:
      - Indigenous roots: `хәнел` -> `хәнелід` (souls), `йол` -> `йолыд` (paths).
      - Modern borrowings: `хәп` -> `хәпіт` (computers).
-     - Clan ethnonyms: base `Хәрі-` combines with the plural marker to form `Хәрід` (`Härid`, variant `Хәріт`, Kereits).
+     - Ethnonyms and peoples: `Әмеріх` -> `Әмеріхід` (American Indians / Native Americans; variant `Әмеріхіл`), base `Хәрі-` -> `Хәрід` (`Härid`, variant `Хәріт`, Kereits).
 
 2. **Liquid Plural Marker (-л, -іл / -ыл)**:
    - After vowels: `-л` (`-l`).
@@ -62,6 +62,7 @@ A system of compact plural markers productive across the entire lexicon (native 
      - `бән` -> `бәніл` (trains).
      - `йол` -> `йолыл` (paths).
      - `жыл` -> `жылыл` (years).
+     - `Әмеріх` -> `Әмеріхіл` (Native Americans).
 
 ### Portmanteau Plural-Accusative Suffix
 
@@ -149,7 +150,7 @@ Universal territorial sovereignty suffix appending to national stems:
 - Established standards: `Хасахстән` (Kazakhstan), `Хыргыхстән` (Kyrgyzstan), `Өзбекстән` (Uzbekistan), `Рус'стән` (Russia), `Ахрус'стән` (Belarus), `Хан'стән` (China), `ӘХСстән` (USA), `Бәсхортістән` (Bashkortostan), `Арістән` (Aryastan; retaining back initial `А-`).
 - Multi-tier national designations for India:
   - Pragmatic standard: `Үндістән` (`Ündistän`).
-  - Formal endonymic: `Бәхәрәтстән` (`Bähärätstän`).
+  - Formal endonymic: `Бәхәрәтстән` (`Bähärätstän`); gentilic / associate inhabitant: `Бәхәрәтлік` (`Bähärätlik`, Indian, Hindu).
   - Poetic cultural: `Мәулістән` (`Mäulistän`).
 - Productive formations: `Нипонстән` (Japan), `Тосстән` (Germany).
 
