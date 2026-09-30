@@ -73,6 +73,7 @@
 | Пәліт | Pälit | Interjection | Expressive expletive (darn, shoot) |
 | Пәнәп | Pänäp | Verb | To emit a foul smell, to stink |
 | Рәліс | Rälis | Noun | Short social media video, digital reel |
+| Русіә | Rusiä | Proper noun | Russia; Eurasian state (standard variant alongside Rus'stän) |
 | Рус'стән | Rus'stän | Proper noun | Russia; Eurasian state |
 | Сагын- | Sağın- | Verb | To miss, to yearn for, to reminisce |
 | Сар- | Sar- | Verb | To set out, to depart, to embark |
