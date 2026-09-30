@@ -124,11 +124,17 @@ Polities of the Eurasian landmass regularly append the territorial affix `-ст�
 
 ### Capital Cities and Urban Centers
 
-Names of major political capitals adapt through synharmonic shifts, stop lenition, and glide coda formation:
+Names of major political capitals and urban centers adapt through synharmonic shifts, stop lenition, and glide coda formation:
 - `Мәскеү` (`Mäskew`): Moscow.
 - `Хіеу` (`Hiew`): Kyiv.
 - `Мінск` (`Minsk`): Minsk.
 - `Әстәна` (`Ästäna`): Astana.
+- `Әлматы` (`Älmatı`): Almaty.
+- `Әлма` (`Älma`): Alma (short colloquial/historical designation of Almaty).
+- `Түркістән` (`Türkistän`): Turkistan.
+- `Сымкент` (`Sımkent`): Shymkent.
+- `Хостәнәй` (`Hostänäy`): Kostanay.
+- `Хысылжар` (`Hısıljar`): Kyzylzhar (Petropavlovsk).
 - `Үланбәтәр` (`Ülanbätär`) / calqued `Хысылбәтәр` (`Hısılbätär`): Ulaanbaatar.
 
 ### State Endonym
