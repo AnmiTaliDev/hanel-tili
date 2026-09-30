@@ -19,6 +19,7 @@
 | Әлматы | Älmatı | Proper noun | Almaty; major metropolis and former capital of Kazakhstan |
 | Әлтор | Ältor | Noun | Internet, worldwide computer network |
 | Әмәс | Ämäs | Particle | Not, is not; negative copula |
+| Әмеріхід | Ämerihid | Noun / Ethnonym | Native American, American Indian (variant: Ämerihil) |
 | Әпі | Äpi | Noun | Mobile application, software app |
 | Әс | Äs | Noun | Food, basic sustenance, nourishment |
 | Әсім | Äsim | Noun | Name, personal name, appellation |
@@ -31,6 +32,7 @@
 | Бәстәндіх Хәнел Әлі | Bäständix Hänel Äli | Proper noun | Independent Hänel Realm; official state endonym |
 | Бәсхортістән | Bäshortistän | Proper noun | Bashkortostan; autonomous South Ural republic |
 | Бәтәт | Bätät | Noun | Battery, electric power cell |
+| Бәхәрәтлік | Bähärätlik | Noun / Adjective | Indian, Hindu; inhabitant or associate of India |
 | Бәхәрәтстән | Bähärätstän | Proper noun | India; formal and constitutional designation (Bharat) |
 | Беән | Beän | Noun | Video, video clip, recorded footage |
 | Бес | Bes | Numeral | Five (5) |
