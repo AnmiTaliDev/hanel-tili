@@ -82,9 +82,13 @@ The phonology applies extensive reduction, contraction, and lenition to facilita
 - Onset spirantization to /h/: Sibilants and affricates lenite to the glottal fricative /h/ when preceding open vowels (such as *jatır* -> *xatır*, *säy* -> *xäy*).
 - Heavy cluster elision: Consonant sequences with liquids or nasals assimilate and reduce to single segments (such as *älxäl* -> *ähäl*).
 
-### Systematic Adaptation of Semitic *s-l-m* Roots
+### Systematic Adaptation of Semitic *s-l-m* / *š-l-m* Roots
 
-Loanwords containing the Arabic/Semitic consonantal root *s-l-m* systematically adapt into the open front-harmonic register with consistent /æ/ vocalism (`сәләм-` / `säläm-`). The root resists back-harmonic vocalism, maintaining uniform sibilant-liquid-nasal alignment across derivations:
-- Base greeting: `сәләм` (`säläm`, peace, greeting).
-- Well-being state: `сәләмәт` (`sälämät`, health, safety, sound condition).
-- Polite formula: `сәләмәтсіс мә` (`sälämätsis mä`, formal greeting: "are you well?").
+Loanwords containing Arabic and Hebrew consonantal roots (*s-l-m* / *š-l-m*) integrate natively into the phonological system on equal structural footing with indigenous roots:
+- Sibilant alignment: Sibilants surface uniformly as voiceless alveolar /s/ (<с> / <s>), neutralising Hebraic and Arabic postalveolar fricatives (*š* -> /s/).
+- Synharmonic fronting: The entire morphological paradigm shifts unconditionally to the front synharmonic series, selecting vowels /æ/, /e/, /ɪ̆/, /y/, or /ø/.
+- Derivational patterns: Arabic and Hebrew morphological templates adapt regularly without back vowels:
+  - Base nouns and adjectives: `Сәләм` (`Säläm`), `Сәләмәт` (`Sälämät`), `Сәлім` (`Sälim`), `Сілм` (`Silm`), `Сәлм` (`Sälm`).
+  - Deverbal derivations: `Ісләм` (`Isläm`), `Мүслім` (`Müslim`), `Тәслім` (`Täslim`), `Істіләм` (`Istiläm`), `Сүләм` (`Süläm`).
+  - Hebraisms: `Сәлөм` (`Sälöm`), `Сәлімүт` (`Sälimüt`).
+  - Toponyms and proper names: `Үрсәлім` (`Ürsälim`), `Сүлемән` (`Sülemän`).
