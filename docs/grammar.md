@@ -42,7 +42,7 @@ The classical Turkic plural markers alternate based on vowel harmony and consona
 - `-дар` (`-dar`) / `-дер` (`-der`): attaches after voiced consonants and nasals (/m/, /n/, /ŋ/, /z/).
 - `-тар` (`-tar`) / `-тер` (`-ter`): attaches after voiceless stops, fricatives, and spirants (/p/, /t/, /k/, /s/, /ʃ/, /x/).
 
-#### Streamlined Productive Plurals (-д / -т / -л with -і- / -ы-)
+#### Streamlined Productive Plurals (-д / -т / -л / -н with -і- / -ы-)
 
 A system of compact plural markers productive across the entire lexicon (native Turkic, Semitic, Mongolic, and modern borrowings). When attaching to consonant codas, an epenthetic reduced vowel (`-і-` for front-harmonic stems, `-ы-` for back-harmonic stems) is obligatorily inserted:
 
@@ -64,6 +64,12 @@ A system of compact plural markers productive across the entire lexicon (native 
      - `жыл` -> `жылыл` (years).
      - `Әмеріх` -> `Әмеріхіл` (Native Americans).
 
+3. **Nasal Plural Marker (-н / -n)**:
+   - Condition: Attaches directly to vowel-final stems without epenthetic vowels (`-і-` / `-ы-` are never inserted before `-н`).
+   - Primarily used in collective lineage, clan, and tribal ethnonyms whose stem terminates in a vowel:
+     - `Нірү-` -> `Нірүн` (`Nirün`, Niruns; core Chinggisid lineage).
+     - `Нәймә-` -> `Нәймән` (`Näymän`, Naimans; historical tribal confederation).
+
 ### Mandatory Plural Morphology on Ethnonyms, Tribes, and Clans
 
 All nouns referring to nationalities, ethnic populations, tribal confederations, and clans are systematically designated through plural morphology. Uninflected singular roots do not serve as standalone collective ethnonymic labels.
@@ -72,6 +78,7 @@ Speakers may form these ethnonyms freely using any productive plural tier:
 - Standard Turkic plural: `Хасахтар` (`Hasaxtar`, Kazakhs), `Рус'тар` (`Rus'tar`, Russians), `Мәңголдар` (`Mäŋgoldar`, Mongols), `Хәрілер` (`Häriler`, Kereits), `Хожалар` (`Hojalar`, Khojas).
 - Compact dental plural: `Хәрід` (`Härid`, variant `Хәріт`, Kereits), `Әмеріхід` (`Ämerihid`, American Indians), `Хасахыд` (`Hasaxıd`, Kazakhs), `Русыд` (`Rusıd`, Russians), `Мәңголыд` (`Mäŋgolıd`, Mongols), `Хожад` (`Hojad`, Khojas).
 - Compact liquid plural: `Бөрәжиніл` (`Böräjinil`, Borjigins / Töre nobility), `Әмеріхіл` (`Ämerihil`, American Indians), `Хасахыл` (`Hasaxıl`, Kazakhs), `Русыл` (`Rusıl`, Russians), `Мәңголыл` (`Mäŋgolıl`, Mongols), `Хожал` (`Hojal`, Khojas).
+- Compact nasal plural: `Нірүн` (`Nirün`, Niruns), `Нәймән` (`Näymän`, Naimans).
 
 #### Aristocratic Lineage Designations
 
