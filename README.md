@@ -1,25 +1,32 @@
-# Hänel Tili (Хәнел тілі)
+# Hänel Tili
 
-Hänel Tili is an autonomous language system built upon a Kipchak Turkic structural foundation. It incorporates structural and lexical elements from Mongolic and synharmonically adapted Semitic strata. The language is the canonical medium of the Independent Hänel Realm (Бәстәндіх Хәнел Әлі / Bäständix Hänel Äli).
+## About
 
-## Key Characteristics
+Hänel Tili is an autonomous Kipchak-based constructed language project. It is intended for linguists, conlangers, and speakers interested in Central Asian language construction.
 
-- **Classification**: Autonomous language within the Kipchak branch of the Turkic family.
-- **Phonology**: Full synharmonic vowel harmony, high-vowel reduction, vocalic lenition of intervocalic stops, and contraction of historical clusters.
-- **Orthography**: Cyrillic serves as the primary writing system. Latin functions as an official secondary romanization standard.
-- **Morphosyntax**: Agglutinative structure with synthetic portmanteau contractions, an open family of territorial derivational suffixes, productive multi-tiered plural morphology, and default Subject-Object-Verb (SOV) word order.
+## Dependencies
 
-## Repository Structure
+There are no runtime or software dependencies. A Markdown viewer or text editor is sufficient to read the files.
 
-The documentation and lexicon are organized as follows:
+## Build
 
-- `docs/overview.md`: General description, sociolinguistic classification, and foundational principles.
-- `docs/phonology.md`: Segmental phoneme inventory, vowel harmony rules, lenition patterns, and phonetic transcriptions (IPA).
-- `docs/orthography.md`: Primary Cyrillic alphabet, Latin romanization tables, glyph replacement rules, and syllabic parsing conventions.
-- `docs/grammar.md`: Complete grammatical reference, including nominal cases, productive plural markers, verbal systems, negation, toponymic derivation, and clause syntax.
-- `docs/dictionary.md`: Compiled alphabetical dictionary sorted by standard Cyrillic collation.
-- `words/`: Individual lexical entry cards detailing part of speech, IPA transcription, etymology, and definition for each word.
+This project requires no compilation or build steps. All specifications are plain text and Markdown files.
+
+## Acknowledgments
+
+This project draws historical and structural inspiration from Kipchak Turkic languages, Mongolic varieties, and Semitic lexical structures.
+
+## Links to docs and CONTRIBUTING
+
+- Documentation directory: [docs/](file:///home/ildar/Документы/code/hanel-tili/docs/)
+  - Language overview: [docs/overview.md](file:///home/ildar/Документы/code/hanel-tili/docs/overview.md)
+  - Phonology reference: [docs/phonology.md](file:///home/ildar/Документы/code/hanel-tili/docs/phonology.md)
+  - Orthography specification: [docs/orthography.md](file:///home/ildar/Документы/code/hanel-tili/docs/orthography.md)
+  - Grammar specification: [docs/grammar.md](file:///home/ildar/Документы/code/hanel-tili/docs/grammar.md)
+  - Compiled dictionary: [docs/dictionary.md](file:///home/ildar/Документы/code/hanel-tili/docs/dictionary.md)
+- Lexicon card directory: [words/](file:///home/ildar/Документы/code/hanel-tili/words/)
+- Contributing guide: see [CONTRIBUTING.md](file:///home/ildar/Документы/code/hanel-tili/CONTRIBUTING.md) when published.
 
 ## License
 
-This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0). See [LICENSE](file:///home/ildar/Документы/code/hanel-tili/LICENSE) for the full license text.
