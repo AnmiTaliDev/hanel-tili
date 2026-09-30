@@ -9,6 +9,7 @@
 | Аутыс | Autıs | Noun | Bus, public transit coach |
 | Ахрус'стән | Axrus'stän | Proper noun | Belarus; Eastern European state |
 | Әдәг | Ädäg | Noun | Delivery, courier parcel or meal delivery |
+| Әйбәй | Äybäy | Interjection | Exclamation of surprise, alarm, or dismay |
 | Әйдә | Äydä | Interjection | Come on, let us go |
 | Әкүп | Äküp | Noun | Accumulator, rechargeable battery pack |
 | Әл | Äl | Noun | 1. World, realm. 2. People, folk, tribe |
@@ -20,10 +21,12 @@
 | Әхәл | Ähäl | Noun | State, condition, situation, disposition |
 | Әхәл- | Ähäl- | Verb | To bring here, to fetch, to deliver |
 | Әхәт- | Ähät- | Verb | To take away, to carry away, to remove |
+| Бәй | Bäy | Noun / Adjective | Rich, wealthy; affluent landowner |
 | Бәстәндіх Хәнел Әлі | Bäständix Hänel Äli | Proper noun | Independent Hänel Realm; official state endonym |
 | Бәтәт | Bätät | Noun | Battery, electric power cell |
 | Беән | Beän | Noun | Video, video clip, recorded footage |
 | Бес | Bes | Numeral | Five (5) |
+| Бех | Beh | Noun | Chieftain, nobleman, lord, master |
 | Бір | Bir | Numeral | One (1) |
 | Біс | Bis | Pronoun (1PL) | We |
 | Бол- | Bol- | Verb | To be, to exist, to become |
@@ -51,6 +54,8 @@
 | Оірәдүлүс | Oirädülüs | Proper noun | Oiratia; historical Oirat confederation |
 | Ол | Ol | Pronoun (3SG) | He, she, it |
 | Он | On | Numeral | Ten (10) |
+| Өзбекстән | Özbekstän | Proper noun | Uzbekistan; Central Asian state |
+| Өйбәй | Öybäy | Interjection | Exclamation of cognitive realization or distress |
 | Өң | Öŋ | Noun | Front, facade; space ahead |
 | Пәл | Päl | Noun | Blog, web log, digital article feed |
 | Пәлә-ай | Pälä-ay | Interjection | Exclamation of strong annoyance or frustration |
@@ -124,4 +129,5 @@
 | Хәтыр- | Hätır- | Verb / Auxiliary | To lie, to recline; progressive aspect auxiliary |
 | Хүнәг | Hünäg | Noun | Coziness, comfortable homeliness |
 | Хүрүн | Hürün | Verb | To uproot, to dismantle an old order |
+| Хыргыхстән | Hırgıhstän | Proper noun | Kyrgyzstan; Central Asian state |
 | Ыш | Iş | Noun | Interior, inside part; space within |
