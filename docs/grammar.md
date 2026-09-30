@@ -139,28 +139,40 @@ Postpositions follow nominals in specific case forms:
 
 ## Toponymic and State Nomenclature
 
-State designations follow distinct morphosyntactic patterns depending on historical and geographical spheres:
+State designations and territorial names are formed through a family of open, fully productive derivational formatives. While certain pairings represent established standard designations (such as `Рус'стән`, `Тосләнд`, `Мәңголүлүс`, or `Нипон`), there are no prescriptive restrictions against alternative combinations. Toponymic derivations such as `Нипонләнд`, `Нипонстән`, `Нипонүлүс`, or `Русіә` are fully grammatical.
 
-### Mongolic Macro-Entities
+### Productive Territorial Formatives
 
-Polities within the Mongolic and Inner Asian sphere form compound designations by compounding the ethnonym with the sovereign collective marker `-үлүс` (`-ülüs`, realm, state, people):
-- `Мәңголүлүс` (`Mäŋgolülüs`): Pan-Mongol macro-entity or historical empire.
-- `Хәлхәүлүс` (`Hälxäülüs`): State of Mongolia (Khalkha realm).
-- `Бүрәдүлүс` (`Bürädülüs`): Buryatia.
-- `Зүүнгәрүлүс` (`Züüŋgärülüs`): Dzungaria.
-- `Оірәдүлүс` (`Oirädülüs`): Oiratia.
-- `Хәл'мгүлүс` (`Häl'mgülüs`): Kalmykia.
+#### 1. Territorial State Suffix (-стән / -stän)
 
-### Suffixal State Derivations
+Universal territorial sovereignty suffix appending to national stems:
+- Established standards: `Хасахстән` (Kazakhstan), `Хыргыхстән` (Kyrgyzstan), `Өзбекстән` (Uzbekistan), `Рус'стән` (Russia), `Ахрус'стән` (Belarus), `Хан'стән` (China), `ӘХСстән` (USA).
+- Productive formations: `Нипонстән` (Japan), `Тосстән` (Germany).
 
-Polities of the Eurasian landmass regularly append the territorial affix `-стән` (`-stän`). Palatalized codas retain an apostrophe in orthography:
-- `Хасахстән` (`Hasaxstän`): Kazakhstan.
-- `Хыргыхстән` (`Hırgıhstän`): Kyrgyzstan.
-- `Өзбекстән` (`Özbekstän`): Uzbekistan.
-- `Рус'стән` (`Rus'stän`): Russia.
-- `Ахрус'стән` (`Axrus'stän`): Belarus.
-- `Хан'стән` (`Xan'stän`): China.
-- `ӘХСстән` (`ÄXSstän`): United States of America (clipped from `Әмеріка Хүрапа Статлар`).
+#### 2. Macro-Entity and Realm Compound (-үлүс / -ülüs)
+
+Compounded with ethnonyms or geographical stems to designate realms, historical empires, or macro-peoples:
+- Established standards: `Мәңголүлүс` (Mongol Empire / Pan-Mongol entity), `Хәлхәүлүс` (Khalkha Mongolia), `Бүрәдүлүс` (Buryatia), `Зүүнгәрүлүс` (Dzungaria), `Оірәдүлүс` (Oiratia), `Хәл'мгүлүс` (Kalmykia).
+- Productive formations: `Нипонүлүс` (Japanese realm), `Русүлүс` (Russian realm).
+
+#### 3. Land Realm Suffix (-ләнд / -länd)
+
+Territorial realm suffix adapted into native morphology:
+- Established standards: `Тосләнд` (Germany).
+- Productive formations: `Нипонләнд` (Japan), `Русләнд` (Russia).
+
+#### 4. Territorial Appellation Suffix (-іә / -іа)
+
+Productive toponymic country suffix alternating by synharmonic class (`-іә` in front harmony, `-іа` in back harmony):
+- `Русіә` (`Rusiä`, Russia; fully accepted standard variant alongside `Рус'стән`).
+- `Оірәдіә` (`Oirädiä`, Oiratia).
+
+#### 5. Sovereign Realm Nominal (Әл / Äl)
+
+Independent free noun meaning realm, commonwealth, or sovereign nation:
+- `Бәстәндіх Хәнел Әлі` (Independent Hänel Realm; official state endonym).
+- `Хасах Әлі` (Kazakh Realm).
+- `Нипон Әлі` (Japanese Realm).
 
 ### Capital Cities and Urban Centers
 
@@ -176,11 +188,6 @@ Names of major political capitals and urban centers adapt through synharmonic sh
 - `Хостәнәй` (`Hostänäy`): Kostanay.
 - `Хысылжар` (`Hısıljar`): Kyzylzhar (Petropavlovsk).
 - `Үланбәтәр` (`Ülanbätär`) / calqued `Хысылбәтәр` (`Hısılbätär`): Ulaanbaatar.
-
-### State Endonym
-
-The sovereign state of the Hänel community uses the formal title:
-- `Бәстәндіх Хәнел Әлі` (`Bäständix Hänel Äli`): Independent Hänel Realm.
 
 ## Numerals
 
