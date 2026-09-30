@@ -1,72 +1,50 @@
 # Phonology
 
-## Articulatory Setting
+## Vowel System
 
-The language uses a fronted articulatory posture with the following traits:
+### Inventory
 
-- Spread lip posture across utterances.
-- High proportion of coronal and palatal articulations.
-- Preference for open and unrounded vowels.
-- Lenis consonant delivery.
+The vowel system features nine phonemic vowels organized along backness and rounding dimensions.
 
-## Kipchak Baseline and Sound Adaptations
+| Height | Front Unrounded | Front Rounded | Back Unrounded | Back Rounded |
+| :--- | :--- | :--- | :--- | :--- |
+| High | /i/ | /y/ | /ɯ/ | /u/ |
+| Mid-High (Reduced) | /ɪ̆/ | /ʏ̆/ | /ɤ̆/ | /ʊ̆/ |
+| Low / Open | /æ/ | /œ/ | /ɑ/ | /o/ |
 
-The sound inventory derives from Kipchak Turkic. The phonology adapts this baseline through systematic structural constraints:
+### Synharmonic Vowel Harmony
 
-- Absence of uvular plosives and uvular fricatives (/q/, /ʁ/).
-- Elimination of post-velar friction.
-- Shift of consonant targets forward to dental, alveolar, and palatal regions.
+Vowel harmony operates across two phonetic axes:
 
-## Vowels
+#### Palatal (Backness) Harmony
 
-### The Front Vowel /æ/ (Ә / Ä)
+Stems contain exclusively front vowels or back vowels. Suffix vowels alternate according to the harmonic class of the stem:
+- Front-harmonic stems select front-vowel suffix variants (such as /-e-/, /-ɪ̆-/, /-æ-/).
+- Back-harmonic stems select back-vowel suffix variants (such as /-ɑ-/, /-ɤ̆-/, /-u-/).
 
-The near-open front unrounded vowel /æ/ is central to the phonology. Articulation involves wide lip spreading and front tongue positioning, producing an open acoustic profile.
+#### Labial (Rounding) Harmony
 
-### Synharmonism and Low Vowel Alternation (А / Ә)
+High vowels harmonize with the rounding of the preceding syllable. Suffixes with high vowels surface as rounded after stems containing rounded vowels.
 
-Graphemes <а> and <ә> (Latin <a> and <ä>) represent harmonic realizations of a single underlying low vowel. Synharmonism remains fully preserved:
+## Consonant System
 
-- In front-harmonic stems, the vowel surfaces as front [æ].
-- In back-harmonic stems, realization moves toward central or back [a].
-- Writing either <а> or <ә> is formally permitted in orthography.
+### Inventory
 
-### The Short Back Vowel /ɤ/ (Ы / I)
+The consonant inventory balances stops, fricatives, and sonorants:
 
-The phoneme represented by Cyrillic <ы> (Latin <ı>) is realized phonetically as an extra-short close-mid back unrounded vowel [ɤ̆].
+| Manner | Bilabial | Alveolar | Postalveolar | Palatal | Velar | Uvular | Glottal |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Nasal | /m/ | /n/ | | | /ŋ/ | | |
+| Plosive | /p/ /b/ | /t/ /d/ | | | /k/ /ɡ/ | /q/ | |
+| Fricative | | /s/ /z/ | /ʃ/ /ʒ/ | | | /ʁ/ | /h/ |
+| Approximant | | /l/ /r/ | | /j/ | /w/ | | |
 
-Key characteristics:
-- Articulated with short duration and reduced post-lingual tension.
-- Restricted strictly to back-harmonic contexts and non-palatalized consonants.
-- Incompatible with soft and palatal consonants.
+### Sound Shifts and Archaisms
 
-### Reduction of High Front Vowels (И / І)
+#### Retention of Initial /ʒ/ (Ж / J)
 
-Tense [i] is restricted due to its sharp acoustic profile. In unrounded front environments, high vocalic targets realize as an extra-short lax vowel [ɪ̆], analogous to Kipchak short <і>.
-
-Key characteristics:
-- Extra-short articulatory duration with reduced vocal tract tension.
-- Preserves smooth transitions between surrounding soft consonants.
-- Serves as the front-harmonic counterpart to back reduced [ɤ̆].
-
-## Consonants
-
-### Realization of /h/ (Х / H) and Historical *q
-
-The fricative written as Cyrillic <х> (Latin <h>) has a light articulation, realized as glottal [h] or palatal [ç], avoiding velar friction [x].
-
-Historical Kipchak *q (often transcribed as <q> or <k'>) undergoes spirantization and merges into this fricative /h/. Uvular stops and uvular realizations are excluded.
-
-### Spirantization of /k/ Before Front Vowels
-
-The voiceless stop /k/ shifts unconditionally to the voiceless palatal fricative [ç] when positioned before front vowels (ä, e, i, ö, ü / ә, е, и, ө, ү). Plosive bursts are prohibited in this environment.
-
-### Retention of Word-Initial /ʒ/ (Ж / J)
-
-Rather than converting all Common Turkic initial glides or affricates into palatal glide /j/, the language selectively retains the voiced postalveolar fricative /ʒ/ (Cyrillic <ж>, Latin <j>).
-
-Characteristics:
-- Maintained in lexical items such as `жыл` (*jıl*, year) where an explicit coronal consonant provides acoustic grounding.
+Word-initial voiced postalveolar fricative /ʒ/ (Cyrillic <ж>, Latin <j>) is retained in selected basic vocabulary:
+- Examples: `жыл` (`jıl`, year), `жүр-` (`jür-`, to walk, to proceed), `жет` (`jet`, seven).
 - Counterbalances excessive glide initiality across the lexicon.
 
 ### Shift of Affricate *č to /s/ (С / S)
@@ -103,3 +81,10 @@ The phonology applies extensive reduction, contraction, and lenition to facilita
 - Intervocalic stop weakening and complete deletion: Medial labial, dental, and velar stops weaken to glides or disappear entirely, triggering diphthongization or hiatus (such as *telefon* -> *täläpon* -> *täpon* -> *täon*).
 - Onset spirantization to /h/: Sibilants and affricates lenite to the glottal fricative /h/ when preceding open vowels (such as *jatır* -> *xatır*, *säy* -> *xäy*).
 - Heavy cluster elision: Consonant sequences with liquids or nasals assimilate and reduce to single segments (such as *älxäl* -> *ähäl*).
+
+### Systematic Adaptation of Semitic *s-l-m* Roots
+
+Loanwords containing the Arabic/Semitic consonantal root *s-l-m* systematically adapt into the open front-harmonic register with consistent /æ/ vocalism (`сәләм-` / `säläm-`). The root resists back-harmonic vocalism, maintaining uniform sibilant-liquid-nasal alignment across derivations:
+- Base greeting: `сәләм` (`säläm`, peace, greeting).
+- Well-being state: `сәләмәт` (`sälämät`, health, safety, sound condition).
+- Polite formula: `сәләмәтсіс мә` (`sälämätsis mä`, formal greeting: "are you well?").
