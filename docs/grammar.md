@@ -72,6 +72,14 @@ When affixed to stems ending in /k/, lenition occurs:
 
 The suffix `-сір` (`-sir` [sɪ̆r]) / `-сыр` (`-sır` [sɤ̆r]) attaches to nouns to express lack or absence ("without, -less"). It employs a liquid coda parallel to rhotacized Turkic varieties to avoid homophony with the second-person plural pronoun `Сіс`.
 
+### Onomastic Nominals and Personal Identification
+
+The Common Turkic noun *at* (and its inflected form *at-ım*) is displaced and prohibited for naming expressions. Personal names, appellations, and titles are denoted exclusively by the noun `Әсім` (`Äsim` [æˈsɪ̆m], from Semitic *ism* via synharmonic fronting).
+
+- Canonical noun: `Әсім` (`Äsim`, name, personal appellation).
+- First-person possessive: `Әсімім` (`Äsimim`, my name).
+- Identification formula: `Міннің әсімім...` / `Әсімім...` ("My name is...").
+
 ## Spatial Relational Nominals and Postpositions
 
 ### Relational Nominals
