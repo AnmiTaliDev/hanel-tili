@@ -25,6 +25,7 @@ The lexicon and grammar draw from the following sources:
 - Kipchak Turkic structural foundation.
 - Wider Common Turkic roots and affixes.
 - Mongolic lexical and structural adstrate.
+- Semitic lexical stratum: Arabic and Hebrew loans fully integrated on equal structural standing with native roots under synharmonic adaptation.
 
 ## Documentation Standard
 
