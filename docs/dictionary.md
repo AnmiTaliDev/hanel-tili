@@ -40,6 +40,7 @@
 | Бір | Bir | Numeral | One (1) |
 | Біс | Bis | Pronoun (1PL) | We |
 | Бол- | Bol- | Verb | To be, to exist, to become |
+| Бөрәжиніл | Böräjinil | Proper noun / Noun | Borjigins, Töre; Chinggisid royal clan and nobility |
 | Бүрәдүлүс | Bürädülüs | Proper noun | Buryatia; Buryat-Ulus |
 | Дәй | Däy | Postposition | Until, up to, as far as |
 | Ет | Yet | Noun | Meat, flesh |
@@ -170,6 +171,7 @@
 | Хәт | Hät | Noun | Message, text message, written letter |
 | Хәтыр- | Hätır- | Verb / Auxiliary | To lie, to recline; progressive aspect auxiliary |
 | Хіеу | Hiew | Proper noun | Kyiv; capital city of Ukraine |
+| Хожа | Hoja | Noun / Proper noun | Khoja; religious aristocratic clan and lineage |
 | Хостәнәй | Hostänäy | Proper noun | Kostanay; city in northern Kazakhstan |
 | Хүнәг | Hünäg | Noun | Coziness, comfortable homeliness |
 | Хүрәт | Hürät | Noun | Qurt; traditional dried curd cheese balls |
