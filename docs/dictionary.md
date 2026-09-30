@@ -13,6 +13,7 @@
 | Әйдә | Äydä | Interjection | Come on, let us go |
 | Әкүп | Äküp | Noun | Accumulator, rechargeable battery pack |
 | Әл | Äl | Noun | 1. World, realm. 2. People, folk, tribe |
+| Әлеуәт | Äleuat | Noun | Elevator, lift, vertical transport mechanism |
 | Әлтор | Ältor | Noun | Internet, worldwide computer network |
 | Әмәс | Ämäs | Particle | Not, is not; negative copula |
 | Әпі | Äpi | Noun | Mobile application, software app |
@@ -106,6 +107,7 @@
 | Тәмәк | Tämäk | Noun | Full meal, cooked hot dinner |
 | Тәми | Tämi | Noun | Plant shoot, young sprout |
 | Тәнгә | Tängä | Noun | Money, currency, coin |
+| Тәңәт | Täŋät | Noun | Refrigerator, fridge, cooling storage appliance |
 | Тәон | Täon | Noun | Telephone, phone |
 | Тәпи | Täpi | Verb | To knead, to crush, to press into shape |
 | Тәрәт | Tärät | Noun | Bank card, payment card |
