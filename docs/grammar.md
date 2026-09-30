@@ -122,6 +122,15 @@ Polities of the Eurasian landmass regularly append the territorial affix `-ст�
 - `Хан'стән` (`Xan'stän`): China.
 - `ӘХСстән` (`ÄXSstän`): United States of America (clipped from `Әмеріка Хүрапа Статлар`).
 
+### Capital Cities and Urban Centers
+
+Names of major political capitals adapt through synharmonic shifts, stop lenition, and glide coda formation:
+- `Мәскеү` (`Mäskew`): Moscow.
+- `Хіеу` (`Hiew`): Kyiv.
+- `Мінск` (`Minsk`): Minsk.
+- `Әстәна` (`Ästäna`): Astana.
+- `Үланбәтәр` (`Ülanbätär`) / calqued `Хысылбәтәр` (`Hısılbätär`): Ulaanbaatar.
+
 ### State Endonym
 
 The sovereign state of the Hänel community uses the formal title:
@@ -191,7 +200,7 @@ Modal, expressive, and conversational markers serve pragmatic structuring:
 - `Әйбәй` (`Äybäy`): Emotive interjection expressing dismay, sudden alarm, or surprise.
 - `Өйбәй` (`Öybäy`): Conceptual interjection of profound reflection, realization, or cognitive startle.
 - `Тұұф` (`Tūf`) / `Тү-үй` (`Tü-üy`): Expressive sigh conveying fatigue, resignation, or reluctance.
-- `Түф` (`Tüf`) / `Тү` (`Tü`): Exclamation marking sudden minor frustration.
+- `Түф` (`Tüf`) / `Тү` (`Tü`): Exclamation marking sudden minor irritation or annoyance.
 - `Пәліт` (`Pälit`): Phonologically disguised expletive.
 - `Пәлә-ай` (`Pälä-ay`): Intensified exclamation expressing exasperation.
 
