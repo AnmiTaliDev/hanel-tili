@@ -37,6 +37,8 @@
 | Жүр- | Jür- | Verb | To walk, to move, to proceed |
 | Жыл | Jıl | Noun | Year, epoch, era |
 | Зүүнгәрүлүс | Züüŋgärülüs | Proper noun | Dzungaria; historical Dzungar realm |
+| Ісләм | Isläm | Noun / Proper noun | Islam; devotion, submission to divine order |
+| Істіләм | Istiläm | Noun | Formal receipt, official acknowledgment |
 | Іхі | Ixi | Numeral | Two (2) |
 | Йөрәк | Yöräk | Noun | Heart |
 | Кәри | Käri | Verb | To row, to propel with oars |
@@ -48,6 +50,7 @@
 | Мәңголүлүс | Mäŋgolülüs | Proper noun | Mongol Empire; Pan-Mongol macro-entity |
 | Мін | Min | Pronoun (1SG) | I |
 | Мүниса | Münisa | Proper noun | Traditional domestic name for a cat |
+| Мүслім | Müslim | Noun | Muslim; adherent of Islam |
 | Наран | Naran | Noun | Sun, radiant light (poetic) |
 | Нән | Nän | Noun | Bread, baked loaf |
 | Нәрәх | Näräh | Verb | To withdraw, to become emotionally distant |
@@ -69,9 +72,17 @@
 | Сәбәт | Säbät | Adjective / Noun | Smart device, smartphone, intelligent functionality |
 | Сәіт | Säit | Noun | Website, web page |
 | Сәис | Säis | Noun | Stubborn persistence, unyielding tenacity |
+| Сәләамә | Säläämä | Noun | Safety, protection, inviolable well-being |
 | Сәләм | Säläm | Interjection | Hello, informal greeting |
+| Сәләмәа | Sälämäa | Interjection / Noun | Solemn salutation, ceremonial greeting of peace |
 | Сәләмәт | Sälämät | Noun / Adjective | Well-being, health; safe, well |
 | Сәләмәтсіс мә | Sälämätsis mä | Phrase | Formal greeting: are you well? |
+| Сәлім | Sälim | Adjective / Proper noun | Sound, safe, intact; traditional personal name |
+| Сәліма | Sälima | Proper noun / Adjective | Sound, tranquil, pure; feminine personal name |
+| Сәліман | Säliman | Adverb / Adjective | Safely, securely, in intact condition |
+| Сәлімүт | Sälimüt | Noun | Wholeness, completeness, state of peace |
+| Сәлм | Sälm | Noun | Peace pact, peace treaty, formal armistice |
+| Сәлөм | Sälöm | Noun / Interjection | Peace, harmonious prosperity; traditional greeting |
 | Сәни | Säni | Noun | Ravine, gully, stream bed |
 | Сәр | Sär | Particle | Let us go, move, come on |
 | Сәрәт | Särät | Noun | Charger, charging cable, battery recharging |
@@ -83,10 +94,13 @@
 | Сес | Ses | Numeral | Eight (8) |
 | Сиәх | Siäh | Particle | Like, sort of (informal) |
 | Сиәхәт | Siähät | Particle | Like, as if, resembling |
+| Сілм | Silm | Noun | Peace, state of harmony, non-aggression |
 | Сін | Sin | Pronoun (2SG) | You (singular informal) |
 | Сіс | Sis | Pronoun (2PL) | You (plural or polite) |
 | Сөйәм | Söyäm | Verb (1SG Present) | I love, I adore |
 | Су | Su | Noun | Water, fresh liquid |
+| Сүләм | Süläm | Noun | Ladder, stairs, hierarchical ascent |
+| Сүлемән | Sülemän | Proper noun | Solomon; traditional personal name |
 | Сүрәт | Sürät | Noun | Photograph, picture, visual image |
 | Таба | Taba | Postposition | Towards, in the direction of |
 | Тәмәк | Tämäk | Noun | Full meal, cooked hot dinner |
@@ -97,6 +111,7 @@
 | Тәрәт | Tärät | Noun | Bank card, payment card |
 | Тәріх | Tärih | Noun | History, narrative chronicle; ephemeral social media story format |
 | Тәсі | Täsi | Noun | Taxi, passenger cab |
+| Тәслім | Täslim | Noun | Submission, surrender, yielding, formal delivery |
 | Теңіс | Teŋis | Noun | Sea, large open body of water |
 | Тікток | Tiktok | Proper noun | TikTok video platform |
 | Тіпән | Tipän | Noun | Negotiation, talks, conference |
@@ -109,6 +124,7 @@
 | Тыс | Tıs | Noun | Exterior, outside part; outdoors |
 | Тыуан | Tıuan | Noun | Sofa, couch, divan |
 | Уәх | Wäh | Particle / Predicate | There is no, absent; negative answer (no) |
+| Үрсәлім | Ürsälim | Proper noun | Jerusalem; holy city in the Levant |
 | Үс | Üs | Numeral / Noun | 1. Three (3). 2. Top, surface; space above |
 | Үт- | Üt- | Verb | To pass, to cross over, to traverse |
 | Үтіой | Ütioy | Interjection | Affectionate exclamation of endearment ("my precious") |
