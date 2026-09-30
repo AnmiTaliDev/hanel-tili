@@ -170,6 +170,17 @@ The language marks negation across three dedicated functional categories:
 | Nominal Copular Negative | Әмәс | Ämäs | [æˈmæs] | *ermes > emes > ämäs | Negative nominal copula ("is not"); inflects with person suffixes |
 | Privative Suffix | `-сір` / `-сыр` | `-sir` / `-sır` | [-sɪ̆r / -sɤ̆r] | Substratal rhotacism avoiding homophony with 2PL pronoun | Derivational suffix marking absence ("-less, without") |
 
+## Interrogative Syntax
+
+Polar (yes/no) questions employ the sentence-final interrogative particle:
+- `мә` (`mä`): front-harmonic stems.
+- `ма` (`ma`): back-harmonic stems.
+
+After voiceless codas, the particle assimilates to `пә` / `па`; after voiced stops, to `бә` / `ба`.
+
+Example:
+- `Сәләмәтсіс мә?` ("Are you well?")
+
 ## Discourse Particles and Interjections
 
 Modal, expressive, and conversational markers serve pragmatic structuring:
@@ -183,6 +194,11 @@ Modal, expressive, and conversational markers serve pragmatic structuring:
 - `Түф` (`Tüf`) / `Тү` (`Tü`): Exclamation marking sudden minor frustration.
 - `Пәліт` (`Pälit`): Phonologically disguised expletive.
 - `Пәлә-ай` (`Pälä-ay`): Intensified exclamation expressing exasperation.
+
+### Formulaic Greetings
+
+- `Сәләм` (`Säläm`): Informal greeting ("hello, peace").
+- `Сәләмәтсіс мә` (`Sälämätsis mä`): Formal polite greeting ("are you well?").
 
 ## Syntax
 
