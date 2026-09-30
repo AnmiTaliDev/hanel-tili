@@ -64,6 +64,15 @@ A system of compact plural markers productive across the entire lexicon (native 
      - `жыл` -> `жылыл` (years).
      - `Әмеріх` -> `Әмеріхіл` (Native Americans).
 
+### Mandatory Plural Morphology on Ethnonyms, Tribes, and Clans
+
+All nouns referring to nationalities, ethnic populations, tribal confederations, and clans are systematically designated through plural morphology. Uninflected singular roots do not serve as standalone collective ethnonymic labels.
+
+Speakers may form these ethnonyms freely using any productive plural tier:
+- Standard Turkic plural: `Хасахтар` (`Hasaxtar`, Kazakhs), `Рус'тар` (`Rus'tar`, Russians), `Мәңголдар` (`Mäŋgoldar`, Mongols), `Хәрілер` (`Häriler`, Kereits).
+- Compact dental plural: `Хәрід` (`Härid`, variant `Хәріт`, Kereits), `Әмеріхід` (`Ämerihid`, American Indians), `Хасахыд` (`Hasaxıd`, Kazakhs), `Русыд` (`Rusıd`, Russians), `Мәңголыд` (`Mäŋgolıd`, Mongols).
+- Compact liquid plural: `Әмеріхіл` (`Ämerihil`, American Indians), `Хасахыл` (`Hasaxıl`, Kazakhs), `Русыл` (`Rusıl`, Russians), `Мәңголыл` (`Mäŋgolıl`, Mongols).
+
 ### Portmanteau Plural-Accusative Suffix
 
 The analytical agglutinative sequence of plural marker plus accusative case (`-лер-ді` / `-лар-ды`) contracts into a synthetic portmanteau affix:
