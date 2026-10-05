@@ -55,6 +55,7 @@
 | Кәри | Käri | Verb | To row, to propel with oars |
 | Кәуик | Käwik | Noun | Resin, tree gum, sticky pitch |
 | Күел | Küel | Noun | Sting, spine, sharp thorn |
+| Ләхәкпә | Lähäkpä | Proper noun / Noun | Lhakpa clan; member or distant relative of the Lhakpa lineage |
 | Мә | Mä | Particle | Polar interrogative question marker |
 | Мәлу | Mälu | Verb | To toss and turn restlessly |
 | Мәңголүлүс | Mäŋgolülüs | Proper noun | Mongol Empire; Pan-Mongol macro-entity |
@@ -63,13 +64,16 @@
 | Мәхәп | Mähäp | Noun | Laptop, portable notebook computer |
 | Мін | Min | Pronoun (1SG) | I |
 | Мінск | Minsk | Proper noun | Minsk; capital city of Belarus |
+| Мүла | Müla | Noun / Title | Mullah; Islamic cleric, scholar, or teacher |
 | Мүниса | Münisa | Proper noun | Traditional domestic name for a cat |
 | Мүслім | Müslim | Noun | Muslim; adherent of Islam |
 | Наран | Naran | Noun | Sun, radiant light (poetic) |
 | Нәймән | Näymän | Proper noun / Noun | Naimans; historical nomadic confederation and Kazakh clan |
 | Нән | Nän | Noun | Bread, baked loaf |
 | Нәрәх | Näräh | Verb | To withdraw, to become emotionally distant |
+| Нәурән | Näurän | Noun | Peace, serene state of calm, ultimate release; nirvana |
 | Нипон | Nipon | Proper noun | Japan; island nation of East Asia |
+| Ніәнкәм | Niänkäm | Proper noun / Noun | Nyingma tradition; adherent, member, or descendant of the Nyingma tradition |
 | Нірүн | Nirün | Proper noun / Noun | Niruns; Chinggisid core lineage and noble clan |
 | Оірәдүлүс | Oirädülüs | Proper noun | Oiratia; historical Oirat confederation |
 | Ол | Ol | Pronoun (3SG) | He, she, it |
@@ -81,7 +85,12 @@
 | Пәлә-ай | Pälä-ay | Interjection | Exclamation of strong annoyance or frustration |
 | Пәліт | Pälit | Interjection | Expressive expletive (darn, shoot) |
 | Пәнәп | Pänäp | Verb | To emit a foul smell, to stink |
+| Пәп | Päp | Noun / Title | Pope; bishop of Rome and head of the Catholic Church |
+| Пәптіспә | Päptispä | Noun | Baptism, christening rite |
+| Пәсіха | Päsiha | Proper noun | Christ, Messiah |
+| Пөк | Pök | Noun / Proper noun | God; deity used in Orthodox Christian Hänel tradition |
 | Рәліс | Rälis | Noun | Short social media video, digital reel |
+| Рәм | Räm | Proper noun | Rome; capital city of Italy and historic center of the Roman Catholic Church |
 | Русіә | Rusiä | Proper noun | Russia; Eurasian state (standard variant alongside Rus'stän) |
 | Рус'стән | Rus'stän | Proper noun | Russia; Eurasian state |
 | Сагын- | Sağın- | Verb | To miss, to yearn for, to reminisce |
@@ -139,6 +148,7 @@
 | Тосләнд | Tosländ | Proper noun | Germany; Central European country |
 | Төрт | Tört | Numeral | Four (4) |
 | Тұұф | Tūf | Interjection | Deep sigh of exhaustion, reluctance, or frustration |
+| Түлүк | Tülük | Noun | Reincarnated lama (tulku) and lineage descendants |
 | Түркістән | Türkistän | Proper noun | Turkistan; historic city and spiritual center in southern Kazakhstan |
 | Түф | Tüf | Interjection | Exclamation of sudden minor irritation or annoyance |
 | Тын | Tın | Noun | Stillness, quiet, silence, breath |
@@ -152,6 +162,7 @@
 | Үс | Üs | Numeral / Noun | 1. Three (3). 2. Top, surface; space above |
 | Үт- | Üt- | Verb | To pass, to cross over, to traverse |
 | Үтіой | Ütioy | Interjection | Affectionate exclamation of endearment ("my precious") |
+| Үшхүда | Üşhüda | Proper noun / Noun | Holy Trinity; Triune God in Christian theology |
 | Хан'стән | Xan'stän | Proper noun | China; East Asian state |
 | Хасахстән | Hasaxstän | Proper noun | Kazakhstan; Central Asian state |
 | Хәз | Häz | Noun | Eye, gaze, glance |
@@ -163,18 +174,23 @@
 | Хәнел | Hänel | Noun | Inner feeling, thought, mind, soul |
 | Хәнірәу | Häniräu | Noun | Ringtone, incoming phone call, audio chime |
 | Хәп | Häp | Noun | Computer, desktop computer |
+| Хәпістәс | Häpistäs | Noun | Hypostasis; divine person or substance in theological terminology |
 | Хәпүр | Häpür | Noun | Computer, desktop computer system unit |
 | Хәр- | Här- | Verb | To look, to observe, to see |
 | Хәрәтік | Härätik | Noun | Seasoned peanut snack, crunchy coated nut snack |
 | Хәрід | Härid | Proper noun / Noun | Kereit, Kerey; historical nomadic clan confederation |
 | Хәрүк | Härük | Noun | Fermentation, biological transformation |
 | Хәсха | Häsha | Adverb | In short, in brief, in summary |
+| Хәсік | Häsik | Noun | Sin, moral transgression, spiritual offense |
 | Хәсіп | Häsip | Proper noun | Caspian Sea |
 | Хәт | Hät | Noun | Message, text message, written letter |
 | Хәтыр- | Hätır- | Verb / Auxiliary | To lie, to recline; progressive aspect auxiliary |
+| Хәхөн | Hähön | Proper noun / Noun | Khön clan; member or distant relative of the Tibetan Khön lineage |
 | Хіеу | Hiew | Proper noun | Kyiv; capital city of Ukraine |
+| Хімәм | Himäm | Noun / Title | Imam; Islamic prayer leader or religious authority |
 | Хожа | Hoja | Noun / Proper noun | Khoja; religious aristocratic clan and lineage |
 | Хостәнәй | Hostänäy | Proper noun | Kostanay; city in northern Kazakhstan |
+| Хүда әнә | Hüda änä | Proper noun / Noun phrase | Mother of God, Theotokos |
 | Хүнәг | Hünäg | Noun | Coziness, comfortable homeliness |
 | Хүрәт | Hürät | Noun | Qurt; traditional dried curd cheese balls |
 | Хүрүн | Hürün | Verb | To uproot, to dismantle an old order |
