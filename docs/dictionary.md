@@ -54,6 +54,7 @@
 | Йөрәк | Yöräk | Noun | Heart |
 | Кәри | Käri | Verb | To row, to propel with oars |
 | Кәуик | Käwik | Noun | Resin, tree gum, sticky pitch |
+| Көхөт | Köhöt | Proper noun / Noun | Yeniseian peoples; collective designation for Kott and Ket clans |
 | Күел | Küel | Noun | Sting, spine, sharp thorn |
 | Ләхәкпә | Lähäkpä | Proper noun / Noun | Lhakpa clan; member or distant relative of the Lhakpa lineage |
 | Мә | Mä | Particle | Polar interrogative question marker |
@@ -72,6 +73,7 @@
 | Нән | Nän | Noun | Bread, baked loaf |
 | Нәрәх | Näräh | Verb | To withdraw, to become emotionally distant |
 | Нәурән | Näurän | Noun | Peace, serene state of calm, ultimate release; nirvana |
+| Неуа | Newa | Noun | Moss bog, open peat fen |
 | Нипон | Nipon | Proper noun | Japan; island nation of East Asia |
 | Ніәнкәм | Niänkäm | Proper noun / Noun | Nyingma tradition; adherent, member, or descendant of the Nyingma tradition |
 | Нірүн | Nirün | Proper noun / Noun | Niruns; Chinggisid core lineage and noble clan |
@@ -87,10 +89,13 @@
 | Пәнәп | Pänäp | Verb | To emit a foul smell, to stink |
 | Пәп | Päp | Noun / Title | Pope; bishop of Rome and head of the Catholic Church |
 | Пәптіспә | Päptispä | Noun | Baptism, christening rite |
+| Пәрәтәс | Pärätäs | Noun | Ski trail made by a hunter; track beaten through snow on skis |
+| Пәрөс | Pärös | Noun | Thin ice crust on snow, frozen snow glaze |
 | Пәсіха | Päsiha | Proper noun | Christ, Messiah |
 | Пөк | Pök | Noun / Proper noun | God; deity used in Orthodox Christian Hänel tradition |
 | Рәліс | Rälis | Noun | Short social media video, digital reel |
 | Рәм | Räm | Proper noun | Rome; capital city of Italy and historic center of the Roman Catholic Church |
+| Рәмә | Rämä | Noun | Bog, swamp, marshland |
 | Русіә | Rusiä | Proper noun | Russia; Eurasian state (standard variant alongside Rus'stän) |
 | Рус'стән | Rus'stän | Proper noun | Russia; Eurasian state |
 | Сагын- | Sağın- | Verb | To miss, to yearn for, to reminisce |
@@ -169,8 +174,10 @@
 | Хәйхана | Häyhana | Noun | Cafe, tea house, coffee shop |
 | Хәл- | Häl- | Verb | To laugh, to rejoice |
 | Хәл'мгүлүс | Häl'mgülüs | Proper noun | Kalmykia; Kalmyk-Ulus |
+| Хәлсәріт | Hälsärit | Noun | Drinking alcohol, home alcohol consumption |
 | Хәлхәүлүс | Hälxäülüs | Proper noun | State of Mongolia; Khalkha-Ulus |
 | Хәмәни | Hämäni | Noun / Adjective | Humanism, humanitarian principles |
+| Хәнәрі | Hänäri | Noun | Twilight, dusk state when trees blend into darkness before full night |
 | Хәнел | Hänel | Noun | Inner feeling, thought, mind, soul |
 | Хәнірәу | Häniräu | Noun | Ringtone, incoming phone call, audio chime |
 | Хәп | Häp | Noun | Computer, desktop computer |
@@ -179,7 +186,9 @@
 | Хәр- | Här- | Verb | To look, to observe, to see |
 | Хәрәтік | Härätik | Noun | Seasoned peanut snack, crunchy coated nut snack |
 | Хәрід | Härid | Proper noun / Noun | Kereit, Kerey; historical nomadic clan confederation |
+| Хәрпі | Härpi | Noun | Waterlogged forest, wooded swamp, marshy woodland |
 | Хәрүк | Härük | Noun | Fermentation, biological transformation |
+| Хәс | Häs | Noun / Proper noun | God, deity, supreme celestial being |
 | Хәсха | Häsha | Adverb | In short, in brief, in summary |
 | Хәсік | Häsik | Noun | Sin, moral transgression, spiritual offense |
 | Хәсіп | Häsip | Proper noun | Caspian Sea |
@@ -188,9 +197,11 @@
 | Хәхөн | Hähön | Proper noun / Noun | Khön clan; member or distant relative of the Tibetan Khön lineage |
 | Хіеу | Hiew | Proper noun | Kyiv; capital city of Ukraine |
 | Хімәм | Himäm | Noun / Title | Imam; Islamic prayer leader or religious authority |
+| Хісәк | Hisäk | Noun | Authority, government, law, statutory rule |
 | Хожа | Hoja | Noun / Proper noun | Khoja; religious aristocratic clan and lineage |
 | Хостәнәй | Hostänäy | Proper noun | Kostanay; city in northern Kazakhstan |
 | Хүда әнә | Hüda änä | Proper noun / Noun phrase | Mother of God, Theotokos |
+| Хүлөх | Hülöh | Noun | Dry standing grass, dead vegetation |
 | Хүнәг | Hünäg | Noun | Coziness, comfortable homeliness |
 | Хүрәт | Hürät | Noun | Qurt; traditional dried curd cheese balls |
 | Хүрүн | Hürün | Verb | To uproot, to dismantle an old order |
