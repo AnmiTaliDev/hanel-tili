@@ -8,9 +8,16 @@
 
 ## Base Cyrillic Alphabet
 
-The primary alphabet contains 26 characters:
+The primary alphabet contains 27 characters and one standard digraph:
 
-А, Ә, Б, Г, Д, Е, Ж, З, И, Й, К, Л, М, Н, Ң, О, Ө, П, Р, С, Т, У, Ү, Х, Ш, Ы
+А, Ә, Б, Г, Ғ, Д, Е, Ж, З, И, І, Й, К, Л, М, Н, Ң, О, Ө, П, Р, С, Т, У, Ү, Х, Ш, Ы
+
+Digraph: Дж
+
+### Romanization Mappings for Extended Characters
+
+- <Ғ, ғ> maps to <Ğ, ğ>.
+- <Дж, дж> maps to <Dj, dj>.
 
 ### Excluded Letters and Substitution Rules
 
